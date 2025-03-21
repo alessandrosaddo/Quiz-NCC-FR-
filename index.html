@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz NCC</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        .question {
+            font-size: 1.1em;
+            margin: 20px 0;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: left;
+            word-wrap: break-word;
+        }
+
+        .answer-container {
+            text-align: left;
+            width: 100%;
+            margin-left: 0;
+            padding-left: 20px;
+        }
+
+        .answer-container label {
+            display: block;
+            margin:  0;
+            padding-left: 25px;
+            text-indent: -25px;
+        }
+
+        .correct {
+            background-color: lightgreen;
+        }
+
+        .incorrect {
+            background-color: lightcoral;
+        }
+
+        .error {
+            color: red;
+            font-weight: bold;
+        }
+
+        .btn {
+            font-size: 1em;
+            padding: 10px;
+            margin-top: 5px;
+            cursor: pointer;
+            width: auto;
+            min-width: 80px;
+            background-color: #f0f0f0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .btn:hover {
+            background-color: #e0e0e0;
+        }
+
+        .button-container {
+            display: flex;
+            justify-content: space-between; /* Distribuisce i bottoni orizzontalmente */
+            align-items: center;
+            position: sticky; /* Fissa i bottoni quando scorri */
+            bottom: 0; /* Li fissa in fondo al contenitore */
+            background-color: white; /* Sfondo per evitare sovrapposizioni con il testo */
+            padding: 10px 20px; /* Padding per allineamento */
+            z-index: 1000; /* Assicura che i bottoni siano sopra gli altri elementi */
+            border-top: 1px solid #ccc; /* Linea di separazione opzionale */
+            width: 100%; /* Occupa tutta la larghezza */
+            max-width: 600px; /* Stessa larghezza massima della domanda */
+            margin-left: auto; /* Centra il contenitore */
+            margin-right: auto; /* Centra il contenitore */
+        }
+
+        .end-quiz-btn {
+            margin-left: auto; /* Spinge il bottone "Termina Quiz" al margine destro */
+        }
+
+        .result {
+            font-size: 1em;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+
+        #question-progress {
+            margin-top: 10px;
+        }
+
+        .progress-item {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 1px solid #ccc;
+            margin: 2px;
+            cursor: pointer;
+        }
+
+        .unanswered {
+            background-color: lightgray;
+        }
+
+        .wrong-question {
+            text-align: left;
+            margin: 10px auto;
+            width: 80%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .wrong-question p {
+            margin: 5px 0;
+        }
+
+        .wrong-question p[style*="red"] {
+            color: red;
+        }
+
+        .wrong-question p[style*="green"] {
+            color: green;
+        }
+    </style>
+</head>
+
+<body>
+<h1>Quiz NCC (FR)</h1>
+
+<div id="global-timer" style="font-size: 1.5em; margin: 10px 0;"></div>
+
+<div id="question-progress"></div>
+
+<div id="question-number"></div>
+
+<div id="quiz-container"></div>
+
+<div id="error-message" class="error"></div>
+
+<div class="button-container">
+    <button id="prev-btn" class="btn" onclick="prevQuestion()">Indietro</button>
+    <button id="next-btn" class="btn" onclick="nextQuestion()">Avanti</button>
+    <button id="end-quiz" class="btn end-quiz-btn" onclick="showResults()">Termina Quiz</button>
+</div>
+
+<div id="result" class="result"></div>
+
+<script>
+    let questions = [];
+    const numQuestions = 25;
+    let currentQuestionIndex = 0;
+    let correctAnswers = 0;
+    let answered = false;
+    let questionStatuses = [];
+    let globalTimeLeft = 1800;
+    let globalTimerInterval;
+
+    async function loadQuiz() {
+        document.getElementById("result").innerText = "";
+        try {
+            const response = await fetch("questions.json");
+            const allQuestions = await response.json();
+            questions = allQuestions.sort(() => 0.5 - Math.random()).slice(0, numQuestions);
+
+            questionStatuses = new Array(numQuestions).fill("unanswered");
+
+            currentQuestionIndex = 0;
+            correctAnswers = 0;
+            answered = false;
+            displayQuestion();
+            updateProgressDisplay();
+        } catch (error) {
+            console.error("Errore nel caricamento del JSON:", error);
+            document.getElementById("quiz-container").innerText = "Impossibile caricare le domande. Riprova più tardi.";
+        }
+    }
+
+    function displayQuestion() {
+        document.getElementById("question-number").innerText = `Domanda ${currentQuestionIndex + 1}/${numQuestions}`;
+        document.getElementById("prev-btn").style.display = "inline-block";
+        document.getElementById("error-message").innerText = "";
+
+        const labels = document.querySelectorAll(`label[name='q${currentQuestionIndex}']`);
+        labels.forEach(label => label.classList.remove("correct", "incorrect"));
+
+        if (currentQuestionIndex < questions.length) {
+            const q = questions[currentQuestionIndex];
+            const answers = q.answers;
+            const questionContainer = document.getElementById("quiz-container");
+
+            // Crea il contenuto della domanda
+            const questionHTML = document.createElement("div");
+            questionHTML.className = "question";
+
+            const questionText = document.createElement("p");
+            questionText.textContent = q.question;
+            questionHTML.appendChild(questionText);
+
+            const answerContainer = document.createElement("div");
+            answerContainer.className = "answer-container";
+
+            answers.forEach((answer, i) => {
+                const label = document.createElement("label");
+                label.setAttribute("name", `q${currentQuestionIndex}`);
+
+                const input = document.createElement("input");
+                input.type = "radio";
+                input.name = `q${currentQuestionIndex}`;
+                input.value = answer;
+                input.onchange = checkAnswerImmediately;
+
+                label.appendChild(input);
+                label.appendChild(document.createTextNode(` ${answer}`));
+                answerContainer.appendChild(label);
+                answerContainer.appendChild(document.createElement("br"));
+            });
+
+            questionHTML.appendChild(answerContainer);
+            questionContainer.innerHTML = ""; // Pulisci il contenitore
+            questionContainer.appendChild(questionHTML); // Aggiungi la nuova domanda
+            answered = false;
+        } else {
+            showResults();
+        }
+    }
+
+    function checkAnswerImmediately() {
+        const selected = document.querySelector(`input[name='q${currentQuestionIndex}']:checked`);
+        const labels = document.querySelectorAll(`label[name='q${currentQuestionIndex}']`);
+        const correctAnswer = questions[currentQuestionIndex].correct.trim(); // Pulisci la risposta corretta
+
+        if (selected) {
+            labels.forEach(label => label.classList.remove("correct", "incorrect"));
+
+            labels.forEach(label => {
+                if (label.innerText.trim() === correctAnswer) {
+                    label.classList.add("correct");
+                }
+            });
+
+            const selectedAnswer = selected.value.trim();
+
+            if (selectedAnswer === correctAnswer) {
+                correctAnswers++;
+                questionStatuses[currentQuestionIndex] = "correct";
+                selected.parentElement.classList.add("correct");
+            } else {
+                questionStatuses[currentQuestionIndex] = "incorrect";
+                selected.parentElement.classList.add("incorrect");
+            }
+
+            questions[currentQuestionIndex].userAnswer = selectedAnswer;
+            updateProgressDisplay();
+        }
+    }
+
+
+    function nextQuestion() {
+        const nextUnanswered = findNextUnanswered(1);
+        if (nextUnanswered === -1) {
+            showResults();
+        } else {
+            currentQuestionIndex = nextUnanswered;
+            displayQuestion();
+            updateProgressDisplay();
+            answered = false;
+        }
+    }
+
+    function prevQuestion() {
+        const prevUnanswered = findNextUnanswered(-1);
+        if (prevUnanswered === -1) {
+            showResults();
+        } else {
+            currentQuestionIndex = prevUnanswered;
+            displayQuestion();
+            updateProgressDisplay();
+            answered = false;
+        }
+    }
+
+    function findNextUnanswered(direction) {
+        let i = currentQuestionIndex;
+
+        if (direction === 1) {
+            i++;
+            while (i < numQuestions) {
+                if (questionStatuses[i] === "unanswered") return i;
+                i++;
+            }
+            i = 0;
+            while (i < currentQuestionIndex) {
+                if (questionStatuses[i] === "unanswered") return i;
+                i++;
+            }
+        } else {
+            i--;
+            while (i >= 0) {
+                if (questionStatuses[i] === "unanswered") return i;
+                i--;
+            }
+            i = numQuestions - 1;
+            while (i > currentQuestionIndex) {
+                if (questionStatuses[i] === "unanswered") return i;
+                i--;
+            }
+        }
+
+        return -1;
+    }
+
+    function showResults() {
+        clearInterval(globalTimerInterval);
+
+        // Nascondi elementi non necessari
+        document.getElementById("quiz-container").style.display = "none";
+        document.getElementById("question-progress").style.display = "none";
+        document.getElementById("prev-btn").style.display = "none";
+        document.getElementById("next-btn").style.display = "none";
+        document.getElementById("end-quiz").style.display = "none";
+        document.getElementById("global-timer").style.display = "none";
+
+        // Nascondi il titolo "Quiz NCC" e il contatore "Domanda n/25"
+        document.querySelector("h1").style.display = "none";
+        document.getElementById("question-number").style.display = "none";
+
+        // Mostra i risultati
+        const percentage = (correctAnswers / numQuestions) * 100;
+        const isPassed = correctAnswers >= 18;
+        const errors = numQuestions - correctAnswers;
+
+        let resultHTML = `
+        <h1>Quiz Terminato</h1>
+        <h2 style="color: ${isPassed ? 'green' : 'red'};">${isPassed ? "PROMOSSO" : "BOCCIATO"}</h2>
+        <p><strong>Errori:</strong> ${errors}</p>
+        <button id="restart-btn" class="btn" onclick="restartQuiz()">Ricomincia Quiz</button>
+    `;
+
+        // Aggiungi le domande sbagliate
+        let wrongAnswersHTML = "<h3>Domande sbagliate:</h3>";
+        questions.forEach((q, index) => {
+            if (questionStatuses[index] === "incorrect" || !q.userAnswer) {
+                const userAnswer = q.userAnswer || "Nessuna risposta";
+                wrongAnswersHTML += `
+                <div class="wrong-question">
+                    <p><strong>Domanda ${index + 1}:</strong> ${q.question}</p>
+                    <p style="color: red;"><strong>Risposta selezionata:</strong> ${userAnswer}</p>
+                    <p style="color: green;"><strong>Risposta corretta:</strong> ${q.correct}</p>
+                </div>
+                <hr>
+            `;
+            }
+        });
+
+        // Combina tutto
+        resultHTML += wrongAnswersHTML;
+
+        // Mostra tutto nel contenitore dei risultati
+        document.getElementById("result").innerHTML = resultHTML;
+    }
+
+    function restartQuiz() {
+        // Ricarica il quiz
+        location.reload();
+    }
+
+    function updateProgressDisplay() {
+        const progressContainer = document.getElementById("question-progress");
+        let progressHTML = "";
+        for (let i = 0; i < numQuestions; i++) {
+            let statusClass = questionStatuses[i];
+            progressHTML += `<div class="progress-item ${statusClass}" onclick="goToQuestion(${i})"></div>`;
+        }
+        progressContainer.innerHTML = progressHTML;
+    }
+
+    function goToQuestion(index) {
+        currentQuestionIndex = index;
+        displayQuestion();
+    }
+
+    function startGlobalTimer() {
+        const timerElement = document.getElementById("global-timer");
+        // Aggiorna immediatamente il timer
+        const minutes = Math.floor(globalTimeLeft / 60);
+        const seconds = globalTimeLeft % 60;
+        timerElement.innerText = `Tempo rimanente: ${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
+
+
+        globalTimerInterval = setInterval(() => {
+            globalTimeLeft--;
+            const minutes = Math.floor(globalTimeLeft / 60);
+            const seconds = globalTimeLeft % 60;
+            timerElement.innerText = `Tempo rimanente: ${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
+
+            if (globalTimeLeft <= 0) {
+                clearInterval(globalTimerInterval);
+                showResults();
+            }
+        }, 1000);
+    }
+
+    window.onload = function() {
+        startGlobalTimer();
+        loadQuiz();
+    };
+</script>
+</body>
+
+</html>

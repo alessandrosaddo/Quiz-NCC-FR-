@@ -1,0 +1,4211 @@
+[
+  {
+    "id": "52437",
+    "question": "A 01 - I pneumatici con lesioni sui fianchi che interessano le tele:",
+    "answers": [
+      "Debbono essere ricostruiti",
+      "Costituiscono pericolo solo se utilizzati ad alta pressione",
+      "Si devono sostituire"
+    ],
+    "correct": "Si devono sostituire"
+  },
+  {
+    "id": "52438",
+    "question": "A 02 - I pneumatici con lesioni sui fianchi che interessano le tele:",
+    "answers": [
+      "Debbono essere ricostruiti",
+      "Possono aver subito un urto contro uno spigolo vivo",
+      "Possono essere usati a bassa velocità"
+    ],
+    "correct": "Possono aver subito un urto contro uno spigolo vivo"
+  },
+  {
+    "id": "52439",
+    "question": "A 03 - Viaggiando con pneumatici dello stesso asse gonfiati a pressioni diverse:",
+    "answers": [
+      "Il veicolo \"tira\" dalla parte del pneumatico a minor pressione",
+      "Il veicolo \"tira\" dalla parte del pneumatico più gonfio",
+      "Si affatica l'albero di trasmissione"
+    ],
+    "correct": "Il veicolo \"tira\" dalla parte del pneumatico a minor pressione"
+  },
+  {
+    "id": "52440",
+    "question": "A 04 - Viaggiando con pneumatici dello stesso asse gonfiati a pressioni diverse:",
+    "answers": [
+      "Il veicolo \"tira\" dalla parte del pneumatico più gonfio",
+      "Si compromette la tenuta di strada del veicolo",
+      "Si affatica l'albero della trasmissione"
+    ],
+    "correct": "Si compromette la tenuta di strada del veicolo"
+  },
+  {
+    "id": "52441",
+    "question": "A 05 - Viaggiando con pneumatici dello stesso asse gonfiati a pressioni diverse:",
+    "answers": [
+      "Il veicolo \"tira\" dalla parte del pneumatico più gonfio",
+      "In curva aumenta il fenomeno dello slittamento",
+      "È opportuno frenare più energicamente"
+    ],
+    "correct": "In curva aumenta il fenomeno dello slittamento"
+  },
+  {
+    "id": "52442",
+    "question": "A 06 - I pneumatici dei veicoli con battistrada eccessivamente usurato:",
+    "answers": [
+      "Non condizionano la distanza di sicurezza",
+      "Aumentano la probabilità d'incidenti stradali",
+      "Influiscono sulla stabilità del veicolo solo in curva"
+    ],
+    "correct": "Aumentano la probabilità d'incidenti stradali"
+  },
+  {
+    "id": "52443",
+    "question": "A 07 - I pneumatici dei veicoli con battistrada eccessivamente usurato:",
+    "answers": [
+      "Influiscono negativamente sulla frenatura",
+      "Non aumentano la probabilità d'incidenti stradali",
+      "Influiscono sulla stabilità del veicolo solo in curva"
+    ],
+    "correct": "Influiscono negativamente sulla frenatura"
+  },
+  {
+    "id": "52444",
+    "question": "A 08 - I pneumatici dei veicoli con battistrada con scolpiture profonde meno di 1.6 mm:",
+    "answers": [
+      "Devono essere sostituiti",
+      "Non aumentano la probabilità d'incidenti stradali",
+      "Possono ancora essere utilizzati fino ad usura con intagli di almeno 0.6 mm di profondità"
+    ],
+    "correct": "Devono essere sostituiti"
+  },
+  {
+    "id": "52445",
+    "question": "A 09 - La squilibratura dei freni può dipendere da:",
+    "answers": [
+      "Ferodo consumato eccessivamente",
+      "Eccessivo gioco del pedale freno",
+      "Eccessiva pressione sul pedale freno"
+    ],
+    "correct": "Ferodo consumato eccessivamente"
+  },
+  {
+    "id": "52446",
+    "question": "A 10 - La squilibratura dei freni può dipendere da:",
+    "answers": [
+      "Tamburi ovalizzati",
+      "Eccessivo gioco del pedale freno",
+      "Eccessiva pressione sul pedale freno"
+    ],
+    "correct": "Tamburi ovalizzati"
+  },
+  {
+    "id": "52447",
+    "question": "A 11 - Con freni squilibrati, può avvenire in frenata:",
+    "answers": [
+      "Lo spostamento del carico all'indietro",
+      "Uno sbandamento trasversale",
+      "Un consumo eccessivo del liquido del circuito frenante"
+    ],
+    "correct": "Uno sbandamento trasversale"
+  },
+  {
+    "id": "52448",
+    "question": "A 12 - Con freni squilibrati, può avvenire in frenata:",
+    "answers": [
+      "La staratura del servofreno",
+      "Che sia compromessa la stabilità del veicolo",
+      "Un consumo eccessivo del liquido del circuito frenante"
+    ],
+    "correct": "Che sia compromessa la stabilità del veicolo"
+  },
+  {
+    "id": "52449",
+    "question": "A 13 - Una frenatura poco efficiente o squilibrata, può essere causata:",
+    "answers": [
+      "Da carico erroneamente ripartito od eccessivo",
+      "Dal tipo di anticongelante usato",
+      "Dall'insufficiente lubrificazione dei dischi"
+    ],
+    "correct": "Da carico erroneamente ripartito od eccessivo"
+  },
+  {
+    "id": "52450",
+    "question": "A 14 - Una frenatura poco efficiente o squilibrata, può essere causata:",
+    "answers": [
+      "Dall'insufficiente lubrificazione dei dischi",
+      "Dal tipo di anticongelante usato",
+      "Dalla rottura di una tubazione negli impianti a doppio circuito frenante"
+    ],
+    "correct": "Dalla rottura di una tubazione negli impianti a doppio circuito frenante"
+  },
+  {
+    "id": "52451",
+    "question": "A 15 - Una frenatura poco efficiente o squilibrata, può essere causata:",
+    "answers": [
+      "Dal tipo di anticongelante usato",
+      "Dalla presenza d'aria nel circuito frenante idraulico",
+      "Dall'eccessivo livello dell'olio nella coppa del motore"
+    ],
+    "correct": "Dalla presenza d'aria nel circuito frenante idraulico"
+  },
+  {
+    "id": "52452",
+    "question": "A 16 - Una frenatura poco efficiente o squilibrata, può essere causata:",
+    "answers": [
+      "Dall'eccessivo riscaldamento delle guarnizioni frenanti",
+      "Dal tipo di anticongelante usato",
+      "Dal consumo eccessivo dei denti del freno a mano"
+    ],
+    "correct": "Dall'eccessivo riscaldamento delle guarnizioni frenanti"
+  },
+  {
+    "id": "52453",
+    "question": "A 17 - Se la rotazione dello sterzo si presenta più difficoltosa del normale, può dipendere:",
+    "answers": [
+      "Da sovraccarico dell'asse posteriore",
+      "Dai pneumatici anteriori sgonfi",
+      "Dai pneumatici anteriori troppo gonfi"
+    ],
+    "correct": "Dai pneumatici anteriori sgonfi"
+  },
+  {
+    "id": "52454",
+    "question": "A 18 - Se la rotazione dello sterzo si presenta più difficoltosa del normale, può dipendere:",
+    "answers": [
+      "Da cattiva registrazione degli angoli caratteristici delle ruote",
+      "Dai pneumatici anteriori troppo gonfi",
+      "Da sovraccarico dell'asse posteriore"
+    ],
+    "correct": "Da cattiva registrazione degli angoli caratteristici delle ruote"
+  },
+  {
+    "id": "52455",
+    "question": "A 19 - Se lo sterzo vibra fortemente:",
+    "answers": [
+      "Può dipendere dai giochi ai comandi dello sterzo",
+      "Può dipendere dalla marcia ingranata",
+      "Può dipendere dalla convergenza delle ruote"
+    ],
+    "correct": "Può dipendere dai giochi ai comandi dello sterzo"
+  },
+  {
+    "id": "52456",
+    "question": "A 20 - Se lo sterzo sfarfalla vibrando fortemente:",
+    "answers": [
+      "Può dipendere dalla marcia ingranata",
+      "Può dipendere dalla convergenza delle ruote",
+      "Può dipendere dalle ruote direttrici non equilibrate"
+    ],
+    "correct": "Può dipendere dalle ruote direttrici non equilibrate"
+  },
+  {
+    "id": "52457",
+    "question": "A 21 - Allorché ci accingiamo a scendere dall'autoveicolo dobbiamo tra l'altro:",
+    "answers": [
+      "Verificare, nella sosta davanti a un passo carrabile, che rimanga spazio sufficiente per l'accesso",
+      "Lasciare sempre accese di notte le luci di posizione",
+      "Prima di lasciare il veicolo in sosta, assicurarci di aver spento il motore"
+    ],
+    "correct": "Prima di lasciare il veicolo in sosta, assicurarci di aver spento il motore"
+  },
+  {
+    "id": "52458",
+    "question": "A 22 - Allorché ci accingiamo a scendere dall'autoveicolo dobbiamo tra l'altro:",
+    "answers": [
+      "Verificare, nella sosta davanti a un passo carrabile, che rimanga spazio sufficiente per l'accesso",
+      "Assicurarci di non intralciare il traffico",
+      "Accertarsi che non ci siano nei paraggi parcheggi custoditi"
+    ],
+    "correct": "Assicurarci di non intralciare il traffico"
+  },
+  {
+    "id": "52459",
+    "question": "A 23 - Allorchè ci accingiamo a scendere dall'autoveicolo dobbiamo tra l'altro:",
+    "answers": [
+      "Spegnere in ogni caso le luci",
+      "Lasciare sempre accese di notte le luci di posizione",
+      "Assicurarci di aver parcheggiato correttamente"
+    ],
+    "correct": "Assicurarci di aver parcheggiato correttamente"
+  },
+  {
+    "id": "52460",
+    "question": "A 24 - Il triangolo mobile di pericolo deve essere obbligatoriamente usato per segnalare il veicolo fermo in avaria:",
+    "answers": [
+      "Se l'ostacolo non è visibile almeno a 150 m di distanza",
+      "Di giorno su strada extraurbana se il veicolo non è visibile ad almeno 100 m",
+      "Nelle strettoie"
+    ],
+    "correct": "Di giorno su strada extraurbana se il veicolo non è visibile ad almeno 100 m"
+  },
+  {
+    "id": "52461",
+    "question": "A 25 - Il triangolo mobile di pericolo deve essere obbligatoriamente usato per segnalare il veicolo fermo in avaria:",
+    "answers": [
+      "Su strada extraurbana di notte quando siano inefficienti le luci di posizione",
+      "Solo di notte",
+      "Se l'ostacolo non è visibile almeno a 150 m di distanza"
+    ],
+    "correct": "Su strada extraurbana di notte quando siano inefficienti le luci di posizione"
+  },
+  {
+    "id": "52462",
+    "question": "A 26 - Il triangolo mobile di pericolo deve essere obbligatoriamente usato per segnalare il veicolo fermo in avaria:",
+    "answers": [
+      "Se l'ostacolo non è visibile almeno a 150 m di distanza",
+      "Nelle strettoie",
+      "Per caduta di sostanze pericolose sulla carreggiata in una strada extraurbana"
+    ],
+    "correct": "Se l'ostacolo non è visibile almeno a 150 m di distanza"
+  },
+  {
+    "id": "52463",
+    "question": "A 27 - Il triangolo mobile di pericolo deve essere obbligatoriamente usato per segnalare il veicolo fermo in avaria:",
+    "answers": [
+      "Se l'ostacolo non è visibile almeno a 150 m di distanza",
+      "Anche nei centri abitati, ma solo di notte su strade non sufficientemente illuminate",
+      "Di giorno su strada extraurbana se il veicolo non è visibile ad almeno 100 m"
+    ],
+    "correct": "Di giorno su strada extraurbana se il veicolo non è visibile ad almeno 100 m"
+  },
+  {
+    "id": "52464",
+    "question": "A 28 - Il triangolo mobile di pericolo deve essere obbligatoriamente usato per segnalare il veicolo fermo in avaria:",
+    "answers": [
+      "Se l'ostacolo non è visibile almeno a 150 m di distanza",
+      "Solo fuori dei centri abitati, nei casi previsti",
+      "Anche nei centri abitati, ma solo di notte su strade non sufficientemente illuminate"
+    ],
+    "correct": "Solo fuori dei centri abitati, nei casi previsti"
+  },
+  {
+    "id": "52465",
+    "question": "A 29 - Il triangolo mobile di pericolo:",
+    "answers": [
+      "Fa parte della dotazione obbligatoria dei veicoli",
+      "Va utilizzato nei centri urbani, ma solo di notte",
+      "Va posto sulla carreggiata, posteriormente, nell'immediata vicinanza dell'autoveicolo"
+    ],
+    "correct": "Fa parte della dotazione obbligatoria dei veicoli"
+  },
+  {
+    "id": "52466",
+    "question": "A 30 - La fermata del veicolo:",
+    "answers": [
+      "È consentita, di norma, lungo il margine destro della carreggiata",
+      "È consentita, se di breve durata, sui dossi",
+      "È consentita in ogni caso purché sia effettuata per la sola salita e discesa dei passeggeri"
+    ],
+    "correct": "È consentita, di norma, lungo il margine destro della carreggiata"
+  },
+  {
+    "id": "52467",
+    "question": "A 31 - La fermata del veicolo:",
+    "answers": [
+      "S'identifica con la temporanea sospensione della marcia",
+      "È consentita, se di breve durata, sui dossi",
+      "È consentita in ogni caso purché sia effettuata per la sola salita e discesa dei passeggeri"
+    ],
+    "correct": "S'identifica con la temporanea sospensione della marcia"
+  },
+  {
+    "id": "52468",
+    "question": "A 32 - La fermata del veicolo:",
+    "answers": [
+      "È consentita in ogni caso purché sia effettuata per la sola salita e discesa dei passeggeri",
+      "Non deve in ogni modo causare intralcio per la circolazione",
+      "È consentita sempre per chiedere informazioni agli agenti del traffico"
+    ],
+    "correct": "Non deve in ogni modo causare intralcio per la circolazione"
+  },
+  {
+    "id": "52469",
+    "question": "A 33 - La fermata del veicolo:",
+    "answers": [
+      "Può avere una durata massima di cinque minuti",
+      "È consentita in ogni caso purchè sia effettuata per la sola salita e discesa dei passeggeri",
+      "È consentita nei luoghi riservati alla fermata degli autobus, se lo spazio è libero"
+    ],
+    "correct": "È consentita nei luoghi riservati alla fermata degli autobus, se lo spazio è libero"
+  },
+  {
+    "id": "52470",
+    "question": "A 34 - La fermata è vietata:",
+    "answers": [
+      "Lungo le autostrade in ogni caso",
+      "Sulle strade che non siano suddivise in corsie",
+      "Dove esiste l'apposito segnale"
+    ],
+    "correct":"Dove esiste l'apposito segnale"
+  },
+  {
+    "id": "52471",
+    "question": "A 35 - La fermata è vietata:",
+    "answers": [
+      "Sulle strade che non siano suddivise in corsie",
+      "In corrispondenza dei passaggi a livello",
+      "A meno di 15 metri dal segnale di fermata degli autobus"
+    ],
+    "correct": "In corrispondenza dei passaggi a livello"
+  },
+  {
+    "id": "52472",
+    "question": "A 36 - La fermata è vietata:",
+    "answers": [
+      "A meno di 15 metri dal segnale di fermata degli autobus",
+      "Sulle strade che non siano suddivise in corsie",
+      "Sui passaggi pedonali"
+    ],
+    "correct": "Sui passaggi pedonali"
+  },
+  {
+    "id": "52473",
+    "question": "A 37 - La fermata è vietata:",
+    "answers": [
+      "Dove esiste una segnaletica orizzontale di preselezione",
+      "A meno di 15 metri dal segnale di fermata degli autobus",
+      "In prossimità dei segnali stradali, anche se non se ne occulta la vista"
+    ],
+    "correct": "Dove esiste una segnaletica orizzontale di preselezione"
+  },
+  {
+    "id": "52474",
+    "question": "A 38 - La fermata del veicolo per la semplice salita e discesa dei passeggeri è sempre vietata:",
+    "answers": [
+      "Sui passaggi per ciclisti",
+      "In seconda fila",
+      "Lungo il margine sinistro di una carreggiata a senso unico di circolazione"
+    ],
+    "correct": "Sui passaggi per ciclisti"
+  },
+  {
+    "id": "52475",
+    "question": "A 39 - La fermata del veicolo per la semplice salita e discesa dei passeggeri è sempre vietata:",
+    "answers": [
+      "In seconda fila",
+      "Sui passaggi od attraversamenti pedonali",
+      "Lungo il margine sinistro di una carreggiata a senso unico di circolazione"
+    ],
+    "correct": "Sui passaggi od attraversamenti pedonali"
+  },
+  {
+    "id": "52476",
+    "question": "A 40 - La fermata del veicolo per la semplice salita e discesa dei passeggeri è sempre vietata:",
+    "answers": [
+      "In seconda fila",
+      "Sui binari tranviari",
+      "Lungo il margine sinistro di una carreggiata a senso unico di circolazione"
+    ],
+    "correct": "Sui binari tranviari"
+  },
+  {
+    "id": "52477",
+    "question": "A 41 - La fermata del veicolo per la semplice salita e discesa dei passeggeri è sempre vietata:",
+    "answers": [
+      "Sui passaggi od attraversamenti pedonali",
+      "Nelle ore notturne",
+      "Davanti ai cassonetti dei rifiuti urbani"
+    ],
+    "correct": "Sui passaggi od attraversamenti pedonali"
+  },
+  {
+    "id": "52478",
+    "question": "A 42 - La fermata del veicolo per la semplice salita e discesa dei passeggeri è sempre vietata:",
+    "answers": [
+      "Nelle ore notturne",
+      "Davanti ai cassonetti dei rifiuti urbani",
+      "In tutti i luoghi dove sia di impedimento alla visibilità o intralcio alla circolazione"
+    ],
+    "correct": "In tutti i luoghi dove sia di impedimento alla visibilità o intralcio alla circolazione"
+  },
+  {
+    "id": "52479",
+    "question": "A 43 - La fermata del veicolo per la semplice salita e discesa dei passeggeri è sempre vietata:",
+    "answers": [
+      "In tutti i luoghi dove sia di impedimento alla visibilità o intralcio alla circolazione",
+      "Dopo un segnale di divieto di sosta che sia valido anche di notte",
+      "In seconda fila"
+    ],
+    "correct": "In tutti i luoghi dove sia di impedimento alla visibilità o intralcio alla circolazione"
+  },
+  {
+    "id": "52480",
+    "question": "A 44 - La fermata del veicolo non è consentita:",
+    "answers": [
+      "Alle fermate degli autobus, tranne che nelle ore notturne in cui il servizio è sospeso",
+      "In prossimità degli incroci fuori dei centri abitati",
+      "Nelle strade extraurbane tranne casi di necessità"
+    ],
+    "correct": "In prossimità degli incroci fuori dei centri abitati"
+  },
+  {
+    "id": "52481",
+    "question": "A 45 - La fermata del veicolo non è consentita:",
+    "answers": [
+      "Alle fermate degli autobus, tranne che nelle ore notturne in cui il servizio è sospeso",
+      "In corrispondenza degli incroci",
+      "Nelle strade extraurbane tranne casi di necessità"
+    ],
+    "correct": "In corrispondenza degli incroci"
+  },
+  {
+    "id": "52482",
+    "question": "A 46 - E' obbligatorio ridurre la velocità e all'occorrenza anche fermarsi:",
+    "answers": [
+      "Quando riesca poco facile l'incrocio con altri veicoli",
+      "Nelle forti salite",
+      "Da mezz'ora prima del tramonto a mezz'ora dopo il sorgere del sole"
+    ],
+    "correct": "Quando riesca poco facile l'incrocio con altri veicoli"
+  },
+  {
+    "id": "52483",
+    "question": "A 47 - Nel rispetto dei limiti di velocità, il conducente di un veicolo è tenuto a regolare la velocità in funzione:",
+    "answers": [
+      "Dalla potenza del motore",
+      "Della visibilità",
+      "Dell'urgenza del trasporto"
+    ],
+    "correct": "Della visibilità"
+  },
+  {
+    "id": "52484",
+    "question": "A 48 - Nel rispetto dei limiti di velocità, il conducente di un veicolo è tenuto a regolare la velocità in funzione:",
+    "answers": [
+      "Dalla potenza del motore",
+      "Dell'urgenza del trasporto",
+      "Delle condizioni del traffico"
+    ],
+    "correct": "Delle condizioni del traffico"
+  },
+  {
+    "id": "52485",
+    "question": "A 49 - La fermata del veicolo non è consentita:",
+    "answers": [
+      "Nelle strade extraurbane, salvo casi di necessità",
+      "Alle fermate degli autobus, tranne che nelle ore notturne in cui il servizio è sospeso",
+      "In corrispondenza e in prossimità dei segnali stradali, in modo da occultarne la vista"
+    ],
+    "correct": "In corrispondenza e in prossimità dei segnali stradali, in modo da occultarne la vista"
+  },
+  {
+    "id": "52486",
+    "question": "A 50 - Per ridurre l'inquinamento dell'aria provocato dalla circolazione dei veicoli azionati da motore a scoppio l'automobilista deve:",
+    "answers": [
+      "Curare la perfetta regolazione degli organi di accensione",
+      "Provvedere alla frequente revisione degli organi di sospensione",
+      "Ridurre il tempo di accensione del motore, marciando a velocità elevata nei limiti consentiti"
+    ],
+    "correct": "Curare la perfetta regolazione degli organi di accensione"
+  },
+  {
+    "id": "52487",
+    "question": "A 51 - In prossimità o in corrispondenza degli incroci è vietato:",
+    "answers": [
+      "Rallentare",
+      "Sempre superare la velocità di 60 km/h",
+      "Effettuare inversione di marcia"
+    ],
+    "correct": "Effettuare inversione di marcia"
+  },
+  {
+    "id": "52488",
+    "question": "A 52 - Su tutte le strade (e loro pertinenze) è vietato:",
+    "answers": [
+      "Gettare dai veicoli in movimento qualsiasi cosa",
+      "Usare l'avvisatore acustico (clacson)",
+      "Il transito di veicoli eccezionali"
+    ],
+    "correct": "Gettare dai veicoli in movimento qualsiasi cosa"
+  },
+  {
+    "id": "52489",
+    "question": "A 53 - L'inquinamento atmosferico prodotto dai veicoli a motore può essere ridotto:",
+    "answers": [
+      "Disponendo i bagagli ben fissati sul tetto dell'autovettura",
+      "Limitando i consumi di carburante",
+      "Utilizzando costantemente il motore a regime massimo di rotazione"
+    ],
+    "correct": "Limitando i consumi di carburante"
+  },
+  {
+    "id": "52490",
+    "question": "A 54 - Si deve chiamare la \"POLIZIA\" a seguito di incidente stradale:",
+    "answers": [
+      "Quando si è coinvolti in un incidente grave, indipendentemente dalle responsabilità",
+      "Quando non ci siano altri testimoni",
+      "Quando non si è sicuri di essere dalla parte della ragione"
+    ],
+    "correct": "Quando si è coinvolti in un incidente grave, indipendentemente dalle responsabilità"
+  },
+  {
+    "id": "52491",
+    "question": "A 55 - Le frecce direzionali segnate sulla carreggiata:",
+    "answers": [
+      "Possono essere integrate da iscrizioni sulla pavimentazione che indicano la località raggiungibile",
+      "Comprendono la freccia di destra per indicare l'approssimarsi di una corsia per la sosta di emergenza",
+      "Sono di colore giallo alternato con il nero lungo i tratti dove è vietata la sosta"
+    ],
+    "correct": "Possono essere integrate da iscrizioni sulla pavimentazione che indicano la località raggiungibile"
+  },
+  {
+    "id": "52492",
+    "question": "A 56 - Le strade extraurbane principali:",
+    "answers": [
+      "Sono prive di intersezioni a raso",
+      "Consentono la circolazione con la stessa velocità massima prevista per le autostrade",
+      "Consentono una velocità massima di 70 km/h"
+    ],
+    "correct": "Sono prive di intersezioni a raso"
+  },
+  {
+    "id": "52493",
+    "question": "A 57 - La corsia può essere:",
+    "answers": [
+      "Di marcia",
+      "A doppio senso di circolazione",
+      "Pedonale"
+    ],
+    "correct": "Di marcia"
+  },
+  {
+    "id": "52494",
+    "question": "A 58 - Agli imbocchi o sbocchi delle gallerie stradali è opportuno:",
+    "answers": [
+      "Frenare bruscamente",
+      "Non sorpassare, neanche nelle carreggiate a senso unico",
+      "All'uscita, tenere il volante con particolare attenzione per fronteggiare colpi di vento laterale"
+    ],
+    "correct": "All'uscita, tenere il volante con particolare attenzione per fronteggiare colpi di vento laterale"
+  },
+  {
+    "id": "52495",
+    "question": "A 59 - In presenza di tratti di strada ghiacciati è opportuno:",
+    "answers": [
+      "Aumentare di circa tre o quattro volte la distanza di sicurezza",
+      "Non usare le catene, ma solo gomme chiodate almeno sulle ruote",
+      "Frenare rapidamente in caso di slittamento"
+    ],
+    "correct": "Aumentare di circa tre o quattro volte la distanza di sicurezza"
+  },
+  {
+    "id": "52496",
+    "question": "A 60 - Allorchè ci accingiamo a scendere dall'autoveicolo dobbiamo tra l'altro:",
+    "answers": [
+      "Lasciare sempre accese, di notte, le luci di posizione",
+      "Verificare, nella sosta davanti ad un passo carrabile, che rimanga spazio sufficiente per l'accesso",
+      "Assicurarsi di aver parcheggiato correttamente"
+    ],
+    "correct": "Assicurarsi di aver parcheggiato correttamente"
+  },
+  {
+    "id": "52497",
+    "question": "A 61 - Su un'autostrada:",
+    "answers": [
+      "Si può dare passaggi agli autostoppisti, solo sulle rampe",
+      "È consentita la libera circolazione dei cani solo sulle aree di servizio",
+      "Avvicinandosi alle porte delle stazioni i conducenti sono tenuti a mantenere la fila prescelta"
+    ],
+    "correct": "Avvicinandosi alle porte delle stazioni i conducenti sono tenuti a mantenere la fila prescelta"
+  },
+  {
+    "id": "52498",
+    "question": "A 62 - La sosta di autoveicoli in doppia fila:",
+    "answers": [
+      "Provoca un restringimento delle carreggiata",
+      "È vietata solo quando crea intralcio alla circolazione",
+      "È consentita solo per pochi secondi"
+    ],
+    "correct": "Provoca un restringimento delle carreggiata"
+  },
+  {
+    "id": "52499",
+    "question": "A 63 - I conducenti di veicoli a motore sono obbligati ad azionare la segnalazione luminosa di pericolo (lampeggio simultaneo di tutti gli indicatori luminosi di direzione):",
+    "answers": [
+      "Quando si verificano improvvisi rallentamenti o incolonnamenti",
+      "Di notte, in caso di sosta sulle corsie di emergenza delle autostrade",
+      "Quando si sosta in seconda fila"
+    ],
+    "correct": "Quando si verificano improvvisi rallentamenti o incolonnamenti"
+  },
+  {
+    "id": "52500",
+    "question": "A 64 - Le frecce di rientro:",
+    "answers": [
+      "Sono poste al termine di un tratto di strada ove è consentito il sorpasso",
+      "Possono essere integrate da iscrizioni sulla pavimentazione che indicano la località raggiungibile",
+      "Consentono di scegliere la corsia di preselezione"
+    ],
+    "correct": "Sono poste al termine di un tratto di strada ove è consentito il sorpasso"
+  },
+  {
+    "id": "52501",
+    "question": "A 65 - Chi è penalmente e civilmente responsabile di un sinistro stradale:",
+    "answers": [
+      "È sempre soggetto all'arresto preventivo",
+      "Può incorrere nella revoca della patente di guida",
+      "Deve, in ogni caso, pagare immediatamente l'ammenda"
+    ],
+    "correct": "Può incorrere nella revoca della patente di guida"
+  },
+  {
+    "id": "52502",
+    "question": "A 66 - La doppia striscia longitudinale continua:",
+    "answers": [
+      "Delimita le corsie nelle carreggiate a senso unico",
+      "Consente il sorpasso, ove consentito, senza oltrepassarla",
+      "È di colore azzurro nei parcheggi"
+    ],
+    "correct": "Consente il sorpasso, ove consentito, senza oltrepassarla"
+  },
+  {
+    "id": "52503",
+    "question": "A 67 - I dispositivi di segnalazione acustica non si debbono usare:",
+    "answers": [
+      "Quando le circostanze ne rendono consigliabile l'uso",
+      "Nelle strade ad almeno due corsie per ogni senso di marcia",
+      "Quando c'è l'apposito segnale di divieto"
+    ],
+    "correct": "Quando c'è l'apposito segnale di divieto"
+  },
+  {
+    "id": "52504",
+    "question": "A 68 - Ciò che contraddistingue gli addetti ai servizi di polizia stradale è:",
+    "answers": [
+      "L'uniforme o la paletta",
+      "I guantoni ed altri equipaggiamenti rifrangenti",
+      "L'apposito fischietto"
+    ],
+    "correct": "L'uniforme o la paletta"
+  },
+  {
+    "id": "52505",
+    "question": "A 69 - Non è consentita la sosta a tutti i veicoli:",
+    "answers": [
+      "Nei centri abitati, al di fuori delle aree espressamente autorizzate",
+      "Lungo le strade prive di illuminazione pubblica",
+      "Negli spazi riservati alla sosta dei veicoli per handicappati"
+    ],
+    "correct": "Negli spazi riservati alla sosta dei veicoli per handicappati"
+  },
+  {
+    "id": "52506",
+    "question": "A 70 - Per garantire la sicurezza della circolazione ed evitare incidenti è necessario, fra l'altro:",
+    "answers": [
+      "Controllare periodicamente che la frenatura sia equilibrata per evitare sbandamenti",
+      "Accertarsi del corretto funzionamento del condizionatore d'aria",
+      "Controllare periodicamente lo stato del ferodo del disco della frizione"
+    ],
+    "correct": "Controllare periodicamente che la frenatura sia equilibrata per evitare sbandamenti"
+  },
+  {
+    "id": "52507",
+    "question": "A 71 - Chi guida un veicolo ad elevate prestazioni, deve:",
+    "answers": [
+      "Guidare sempre al centro della strada, però senza superare la striscia di mezzeria",
+      "Montare trombe bitonali per essere sentito più agevolmente, usandole solo fuori dai centri abitati",
+      "Dare di norma la precedenza nei crocevia anche ai veicoli lenti, qualora questi provengano da destra"
+    ],
+    "correct": "Dare di norma la precedenza nei crocevia anche ai veicoli lenti, qualora questi provengano da destra"
+  },
+  {
+    "id": "52508",
+    "question": "A 72 - Per individuare persone e veicoli in un incidente stradale:",
+    "answers": [
+      "È sufficiente chiedere le generalità",
+      "Bisogna controllare la carta di circolazione",
+      "È opportuno trattenere sempre sul posto veicolo e conducente fino all'arrivo dell'autorità"
+    ],
+    "correct": "Bisogna controllare la carta di circolazione"
+  },
+  {
+    "id": "52509",
+    "question": "A 73 - La revoca della patente è disposta:",
+    "answers": [
+      "Dall'autorità giudiziaria",
+      "Quando si è certi che il conducente sia alla guida in stato di ebbrezza",
+      "A seguito della ripetuta violazione dei limiti massimi di velocità"
+    ],
+    "correct": "Dall'autorità giudiziaria"
+  },
+  {
+    "id": "52510",
+    "question": "A 74 - In caso di incidente stradale, il conducente:",
+    "answers": [
+      "Deve rilevare tutti gli elementi utili per la ricostruzione dell'esatta dinamica dell'incidente",
+      "Se ha torto deve prendere le generalità dell'altro conducente, se ha ragione non occorre",
+      "Se vi sono danni solo alle cose, deve soltanto prendere i numeri di targa dei veicoli coinvolti"
+    ],
+    "correct": "Deve rilevare tutti gli elementi utili per la ricostruzione dell'esatta dinamica dell'incidente"
+  },
+  {
+    "id": "52511",
+    "question": "A 75 - La distanza di sicurezza:",
+    "answers": [
+      "Va rispettata per non tamponare il veicolo che ci precede",
+      "Deve essere almeno uguale allo spazio di frenatura",
+      "È uguale alla distanza di visibilità"
+    ],
+    "correct": "Va rispettata per non tamponare il veicolo che ci precede"
+  },
+  {
+    "id": "52512",
+    "question": "A 76 - Lo spazio minimo di arresto di un veicolo lanciato ad una determinata velocità:",
+    "answers": [
+      "Non dipende dallo stato dei pneumatici",
+      "Aumenta se si bloccano le ruote",
+      "Si ottiene bloccando le ruote"
+    ],
+    "correct": "Aumenta se si bloccano le ruote"
+  },
+  {
+    "id": "52513",
+    "question": "A 77 - La distanza di sicurezza dipende:",
+    "answers": [
+      "Dalla massa del veicolo",
+      "Dalla presenza di veicoli che ci seguono",
+      "Dalla potenza del veicolo"
+    ],
+    "correct": "Dalla massa del veicolo"
+  },
+  {
+    "id": "52514",
+    "question": "A 78 - Per non costituire pericolo od intralcio alla circolazione, è necessario:",
+    "answers": [
+      "Dare, comunque, la precedenza a tutti i veicoli negli incroci",
+      "Andare sempre ad una velocità particolarmente moderata",
+      "Osservare non solo le disposizioni di legge, ma anche le cautele dettate dal buon senso"
+    ],
+    "correct": "Osservare non solo le disposizioni di legge, ma anche le cautele dettate dal buon senso"
+  },
+  {
+    "id": "52515",
+    "question": "A 79 - La responsabilità penale connessa al sinistro stradale sorge:",
+    "answers": [
+      "Qualora il conducente provochi lesioni, di qualsiasi entità",
+      "In ogni caso sia violato il Codice della Strada",
+      "Qualora il conducente provochi lesioni e sia punibile a querela dalla persona offesa"
+    ],
+    "correct": "Qualora il conducente provochi lesioni e sia punibile a querela dalla persona offesa"
+  },
+  {
+    "id": "52516",
+    "question": "A 80 - Per adattarsi alle condizioni contrarie del tempo e prevenire incidenti stradali occorre:",
+    "answers": [
+      "Tenere i lampeggianti di sinistra accesi per segnalare la propria presenza",
+      "Aumentare la distanza di sicurezza dal veicolo che precede",
+      "Accendere i proiettori fendinebbia solo di notte"
+    ],
+    "correct": "Aumentare la distanza di sicurezza dal veicolo che precede"
+  },
+  {
+    "id": "52517",
+    "question": "A 81 - Lo spessore minimo del battistrada degli autoveicoli:",
+    "answers": [
+      "Deve essere pari ad almeno 1 mm per tutta la larghezza del battistrada",
+      "È lasciato alla prudente valutazione del conducente",
+      "Deve essere pari ad almeno 1,6 mm per tutta la larghezza del"
+    ],
+    "correct": "Deve essere pari ad almeno 1,6 mm per tutta la larghezza del"
+  },
+  {
+    "id": "52518",
+    "question": "A 82 - Per garantire la sicurezza della circolazione ed evitare incidenti, è necessario, fra l'altro:",
+    "answers": [
+      "Diminuire la pressione dei pneumatici perché se ne migliora il raffreddamento",
+      "Osservare se il pneumatico si consuma soprattutto al centro, perché la pressione è troppo bassa",
+      "Utilizzare pneumatici delle dimensioni previste dalla casa costruttrice"
+    ],
+    "correct": "Utilizzare pneumatici delle dimensioni previste dalla casa costruttrice"
+  },
+  {
+    "id": "52519",
+    "question": "A 83 - La pressione di gonfiaggio dei pneumatici:",
+    "answers": [
+      "Di norma, deve essere quella prescritta dalla casa costruttrice o leggermente inferiore",
+      "Di norma, deve essere quella prescritta dalla casa costruttrice o leggermente superiore",
+      "Non ha importanza se i pneumatici sono nuovi"
+    ],
+    "correct": "Di norma, deve essere quella prescritta dalla casa costruttrice o leggermente superiore"
+  },
+  {
+    "id": "52520",
+    "question": "A 84 - Nelle aree pedonali urbane possono transitare:",
+    "answers": [
+      "Tutti i veicoli sprovvisti di motore",
+      "Di norma, nessun veicolo, salvo eventuali deroghe espressamente",
+      "Le autovetture da piazza"
+    ],
+    "correct": "Di norma, nessun veicolo, salvo eventuali deroghe espressamente"
+  },
+  {
+    "id": "52521",
+    "question": "A 85 - Sulla stabilità del veicolo in marcia influisce positivamente:",
+    "answers": [
+      "Il modello di pneumatici",
+      "Uso di carburante con più elevato numero di ottano",
+      "La pressione di gonfiaggio dei pneumatici"
+    ],
+    "correct": "La pressione di gonfiaggio dei pneumatici"
+  },
+  {
+    "id": "52522",
+    "question": "A 86 - La corsia di decelerazione:",
+    "answers": [
+      "Agevola l'uscita dei veicoli da una carreggiata",
+      "È riservata ai veicoli lenti",
+      "Serve per l'immissione in autostrada"
+    ],
+    "correct": "Agevola l'uscita dei veicoli da una carreggiata"
+  },
+  {
+    "id": "52523",
+    "question": "A 87 - Il triangolo mobile di pericolo deve essere obbligatoriamente usato per segnalare il veicolo che debba restare fermo:",
+    "answers": [
+      "In caso di forte pioggia",
+      "Per chiedere soccorso agli automobilisti in transito",
+      "Solo su carreggiate extraurbane"
+    ],
+    "correct": "Solo su carreggiate extraurbane"
+  },
+  {
+    "id": "52524",
+    "question": "A 88 - Per ridurre l'inquinamento provocato dai veicoli con motore diesel bisogna:",
+    "answers": [
+      "Sostituire periodicamente il filtro dell'aria",
+      "Utilizzare il motore al massimo numero di giri consentito",
+      "Sostituire periodicamente il filtro dell'olio"
+    ],
+    "correct": "Sostituire periodicamente il filtro dell'aria"
+  },
+  {
+    "id": "52525",
+    "question": "A 89 - Il conducente del veicolo da sorpassare ha l'obbligo di:",
+    "answers": [
+      "Facilitare la manovra di sorpasso",
+      "Azionare i lampeggianti di emergenza per segnalare che la strada è sgombra",
+      "Azionare l'indicatore di direzione destro"
+    ],
+    "correct": "Facilitare la manovra di sorpasso"
+  },
+  {
+    "id": "52526",
+    "question": "A 90 - I pneumatici con battistrada eccessivamente usurato:",
+    "answers": [
+      "Aumentano l'aderenza",
+      "Sono pericolosi soltanto in caso di pioggia",
+      "Aumentano la possibilità di perdita di aderenza in caso di pioggia (aquaplaning)"
+    ],
+    "correct": "Aumentano la possibilità di perdita di aderenza in caso di pioggia (aquaplaning)"
+  },
+  {
+    "id": "52527",
+    "question": "A 91 - Causa frequente di incidenti dovuti alle condizioni della strada può essere:",
+    "answers": [
+      "Uso di pneumatici per neve su fondo asciutto",
+      "Inizio di pioggia su fondo asciutto",
+      "Fondo asfaltato ruvido"
+    ],
+    "correct": "Inizio di pioggia su fondo asciutto"
+  },
+  {
+    "id": "52528",
+    "question": "A 92 - La sospensione della patente è disposta:",
+    "answers": [
+      "Quando il titolare non sia più in possesso dei requisiti morali richiesti",
+      "Quando il titolare guidi con la patente la cui validità sia scaduta",
+      "In caso di guida in stato di ebbrezza"
+    ],
+    "correct": "In caso di guida in stato di ebbrezza"
+  },
+  {
+    "id": "52529",
+    "question": "A 93 - In caso di avverse condizioni del tempo, prima di partire, bisogna:",
+    "answers": [
+      "Accendere il riscaldamento in modo da evitare l'appannamento dei vetri",
+      "Aumentare la pressione dei pneumatici delle ruote motrici",
+      "Aumentare la pressione dei pneumatici delle ruote anteriori"
+    ],
+    "correct": "Accendere il riscaldamento in modo da evitare l'appannamento dei vetri"
+  },
+  {
+    "id": "52530",
+    "question": "A 94 - Per ridurre i consumi di carburante:",
+    "answers": [
+      "Si deve usare un olio più fluido",
+      "Si deve marciare ad un numero elevato di giri motore",
+      "È opportuno tenere i finestrini chiusi"
+    ],
+    "correct": "È opportuno tenere i finestrini chiusi"
+  },
+  {
+    "id": "52531",
+    "question": "A 95 - Per garantire la sicurezza della circolazione ed evitare incidenti è necessario, fra l'altro:",
+    "answers": [
+      "Controllare il livello del liquido nella vaschetta del circuito frenante",
+      "Controllare periodicamente lo stato di efficienza dell'impianto di alimentazione del carburante",
+      "Controllare che la spia dell'olio dei freni sia costantemente accesa durante la marcia"
+    ],
+    "correct": "Controllare il livello del liquido nella vaschetta del circuito frenante"
+  },
+  {
+    "id": "52532",
+    "question": "A 96 - E' pregiudizievole ai fini della sicurezza:",
+    "answers": [
+      "Sostare di notte fuori della carreggiata",
+      "Guidare con la luce della targa spenta",
+      "Omettere di usare il segnale di veicolo fermo in caso di sosta in curva per guasto del veicolo"
+    ],
+    "correct": "Omettere di usare il segnale di veicolo fermo in caso di sosta in curva per guasto del veicolo"
+  },
+  {
+    "id": "52533",
+    "question": "A 97 - In caso di forti piogge il conducente deve:",
+    "answers": [
+      "Usare pneumatici a pressione inferiore a quella normalmente suggerita",
+      "Aumentare la velocità di marcia, nel rispetto dei limiti di legge",
+      "Evitare di azionare il freno in modo improvviso e non dosato"
+    ],
+    "correct": "Evitare di azionare il freno in modo improvviso e non dosato"
+  },
+  {
+    "id": "52534",
+    "question": "A 98 - Quando vediamo un automobilista in panne sulla corsia di emergenza di un'autostrada:",
+    "answers": [
+      "Ci fermiamo a prestare soccorso",
+      "Non ci fermiamo neanche nella corsia di emergenza",
+      "Lo accompagniamo fino al più vicino posto di assistenza"
+    ],
+    "correct": "Non ci fermiamo neanche nella corsia di emergenza"
+  },
+  {
+    "id": "52535",
+    "question": "A 99 - Può ritenersi utile ai fini della sicurezza:",
+    "answers": [
+      "Approssimarsi agli incroci rallentando prudentemente",
+      "Gonfiare i pneumatici ad una pressione di poco inferiore a quella suggerita dalla casa costruttrice",
+      "Fare un uso moderato del clacson nei centri abitati"
+    ],
+    "correct": "Approssimarsi agli incroci rallentando prudentemente"
+  },
+  {
+    "id": "52536",
+    "question": "A 100 - Il conducente coinvolto in un incidente stradale con danni a persone:",
+    "answers": [
+      "Ha l'obbligo di fermarsi e soltanto se è un medico od un infermiere diplomato, di prestare l'assistenza occorrente alle persone investite",
+      "Ha soltanto l'obbligo di fermarsi e di fornire le proprie generalità al conducente dell'altra vettura",
+      "Ha l'obbligo di fermarsi e di prestare l'assistenza occorrente alle persone investite"
+    ],
+    "correct": "Ha l'obbligo di fermarsi e di prestare l'assistenza occorrente alle persone investite"
+  },
+  {
+    "id": "52537",
+    "question": "A 101 - E' obbligatorio dare precedenza a destra e a sinistra:",
+    "answers": [
+      "Fuori dai centri abitati a chi circola sulle strade provinciali",
+      "Quando ci si immette nel flusso della circolazione",
+      "Quando si volta a sinistra"
+    ],
+    "correct": "Quando ci si immette nel flusso della circolazione"
+  },
+  {
+    "id": "52538",
+    "question": "A 102 - In caso di nebbia fitta è opportuno:",
+    "answers": [
+      "Mantenere sempre acceso l'indicatore di direzione sinistro",
+      "Seguire con la coda dell'occhio le strisce longitudinali",
+      "Usare le luci abbaglianti"
+    ],
+    "correct": "Seguire con la coda dell'occhio le strisce longitudinali"
+  },
+  {
+    "id": "52539",
+    "question": "A 103 - Allorché si è coinvolti in un incidente stradale, è obbligatorio soccorrere gli infortunati:",
+    "answers": [
+      "Caricando comunque ogni ferito su un'autovettura per portarlo al pronto soccorso",
+      "Soltanto se si è diretti responsabili dell'incidente",
+      "Sempre, ma solo basandosi su conoscenze di primo soccorso"
+    ],
+    "correct": "Sempre, ma solo basandosi su conoscenze di primo soccorso"
+  },
+  {
+    "id": "52540",
+    "question": "A 104 - Causa probabile di incidenti dovuti alla struttura della strada può essere:",
+    "answers": [
+      "Strada suddivisa in corsie",
+      "Strada a percorso pianeggiante",
+      "Mancanza di segnaletica orizzontale"
+    ],
+    "correct": "Mancanza di segnaletica orizzontale"
+  },
+  {
+    "id": "52541",
+    "question": "A 105 - La distanza di un veicolo rispetto al veicolo che precede deve essere determinata:",
+    "answers": [
+      "In almeno 10 m se il veicolo che precede è una macchina sgombraneve in azione",
+      "In relazione alla cilindrata del veicolo",
+      "In relazione alla velocità del veicolo"
+    ],
+    "correct": "In relazione alla velocità del veicolo"
+  },
+  {
+    "id": "52542",
+    "question": "A 106 - Si deve chiamare la polizia a seguito di incidente stradale:",
+    "answers": [
+      "Quando non si ha modulo di constatazione amichevole",
+      "Quando l'altro conducente non è in grado di esibire il certificato di assicurazione",
+      "Se non si riesce a mettere in moto il veicolo"
+    ],
+    "correct": "Quando l'altro conducente non è in grado di esibire il certificato di assicurazione"
+  },
+  {
+    "id": "52543",
+    "question": "A 107 - In caso di acquazzoni, il fenomeno dell'aquaplaning (perdita di aderenza) dovuto a qualche millimetro d'acqua sull'asfalto:",
+    "answers": [
+      "Avviene con più facilità se il pneumatico è consumato",
+      "Si verifica più facilmente a velocità ridotta",
+      "Migliora la capacità di frenata del veicolo"
+    ],
+    "correct": "Avviene con più facilità se il pneumatico è consumato"
+  },
+  {
+    "id": "52544",
+    "question": "A 108 - Prima di effettuare la manovra di sorpasso il conducente è tenuto a:",
+    "answers": [
+      "Avvicinarsi il più possibile al veicolo che precede",
+      "Ridurre la velocità",
+      "Accertarsi che nessun conducente che segue abbia già iniziato la manovra di sorpasso"
+    ],
+    "correct": "Accertarsi che nessun conducente che segue abbia già iniziato la manovra di sorpasso"
+  },
+  {
+    "id": "52545",
+    "question": "A 109 - Nella fase di sorpasso il conducente è tenuto:",
+    "answers": [
+      "Mantenere una velocità almeno doppia di quella del veicolo sorpassato",
+      "Completare la manovra nel più breve tempo possibile rientrando nella corsia di destra",
+      "Segnalare continuamente con l'avvisatore acustico l'effettuazione della manovra"
+    ],
+    "correct": "Completare la manovra nel più breve tempo possibile rientrando nella corsia di destra"
+  },
+  {
+    "id": "52546",
+    "question": "A 110 - Nelle autostrade:",
+    "answers": [
+      "Con veicolo bloccato sulla carreggiata, bisogna apporre il triangolo anche di giorno ed in rettifilo",
+      "È consentito chiedere passaggi solo sui piazzali delle stazioni e sulle aree di servizio e sosta",
+      "È vietato usare proiettori a luce abbagliante"
+    ],
+    "correct": "Con veicolo bloccato sulla carreggiata, bisogna apporre il triangolo anche di giorno ed in rettifilo"
+  },
+  {
+    "id": "52547",
+    "question": "A 111 - Dopo un incidente stradale occorre:",
+    "answers": [
+      "Collocare subito il veicolo sul marciapiede",
+      "Prestare in ogni caso denunzia al più vicino Commissariato di Polizia",
+      "Allontanare al più presto ove possibile il veicolo, spostandolo fuori dalla carreggiata"
+    ],
+    "correct": "Allontanare al più presto ove possibile il veicolo, spostandolo fuori dalla carreggiata"
+  },
+  {
+    "id": "52548",
+    "question": "A 112 - Non si può sorpassare:",
+    "answers": [
+      "In corrispondenza dell'uscita da un pubblico parcheggio",
+      "Sulla destra, il tram che marcia al centro della carreggiata",
+      "Quando si debba valicare una striscia longitudinale bianca continua, semplice o doppia"
+    ],
+    "correct": "Quando si debba valicare una striscia longitudinale bianca continua, semplice o doppia"
+  },
+  {
+    "id": "52549",
+    "question": "A 113 - Nell'eseguire la manovra di sorpasso:",
+    "answers": [
+      "In curva, si devono accendere i fari",
+      "Bisogna effettuarla nel più breve tempo possibile",
+      "Sulle autostrade a due corsie per senso di marcia, si può sempre sorpassare a destra"
+    ],
+    "correct": "Bisogna effettuarla nel più breve tempo possibile"
+  },
+  {
+    "id": "52550",
+    "question": "A 114 - La distanza di sicurezza:",
+    "answers": [
+      "Deve essere uguale allo spazio di frenatura aumentato di 20 metri",
+      "Deve essere almeno uguale allo spazio percorso durante il tempo di reazione del conducente",
+      "Deve essere uguale allo spazio di arresto del veicolo"
+    ],
+    "correct": "Deve essere almeno uguale allo spazio percorso durante il tempo di reazione del conducente"
+  },
+  {
+    "id": "52551",
+    "question": "A 115 - La fermata è vietata:",
+    "answers": [
+      "Lungo le autostrade, in ogni caso",
+      "Dove esiste una segnaletica orizzontale di preselezione",
+      "Sempre, dove esiste il segnale di \"DIVIETO DI SOSTA\""
+    ],
+    "correct": "Dove esiste una segnaletica orizzontale di preselezione"
+  },
+  {
+    "id": "52552",
+    "question": "A 116 - Giungendo in prossimità di un incrocio, si deve:",
+    "answers": [
+      "Procedere in ogni caso molto lentamente",
+      "Prestare attenzione solo ai veicoli provenienti da destra",
+      "Non impegnare l'incrocio se non si ha la possibilità di proseguire e sgombrare l'area di manovra"
+    ],
+    "correct": "Non impegnare l'incrocio se non si ha la possibilità di proseguire e sgombrare l'area di manovra"
+  },
+  {
+    "id": "52553",
+    "question": "A 117 - L'uso corretto della strada comporta che:",
+    "answers": [
+      "Si usino in ogni caso i proiettori a luce abbagliante allorché si superi la velocità di 40 km/h",
+      "Ci si affretti a sgombrare l'incrocio, allorché compaia sul semaforo la luce gialla",
+      "Ci si arresti in ogni caso allorché vi sia il segnale di \"DARE PRECEDENZA\""
+    ],
+    "correct": "Ci si affretti a sgombrare l'incrocio, allorché compaia sul semaforo la luce gialla"
+  },
+  {
+    "id": "52554",
+    "question": "A 118 - La responsabilità penale connessa al sinistro stradale è esclusa:",
+    "answers": [
+      "Ogni qualvolta ci sia stato il risarcimento del danno",
+      "Quando vi siano danni alle sole cose",
+      "In ogni caso in cui sia stato prestato soccorso"
+    ],
+    "correct": "Quando vi siano danni alle sole cose"
+  },
+  {
+    "id": "52555",
+    "question": "A 119 - La stabilità di un veicolo in curva si migliora:",
+    "answers": [
+      "Percorrendo la curva con il motore leggermente in tiro",
+      "Aumentando la velocità nella parte iniziale della curva",
+      "Usando sempre la presa diretta"
+    ],
+    "correct": "Percorrendo la curva con il motore leggermente in tiro"
+  },
+  {
+    "id": "52556",
+    "question": "A 120 - La fermata del veicolo per la semplice salita e discesa dei passeggeri è sempre vietata:",
+    "answers": [
+      "Dopo un segnale di \"DIVIETO DI SOSTA”",
+      "Se i passeggeri che scendono sono più di uno",
+      "Sugli attraversamenti pedonali"
+    ],
+    "correct": "Sugli attraversamenti pedonali"
+  },
+  {
+    "id": "52557",
+    "question": "A 121 - Si deve tenere una velocità:",
+    "answers": [
+      "Proporzionata alla potenza del motore",
+      "Proporzionale alla lunghezza del percorso",
+      "Che consenta di intervenire con sicurezza in caso di imprevisti"
+    ],
+    "correct": "Che consenta di intervenire con sicurezza in caso di imprevisti"
+  },
+  {
+    "id": "52558",
+    "question": "A 122 - I pneumatici con lesioni sui fianchi che interessano le tele:",
+    "answers": [
+      "Possono essere usati a basse velocità",
+      "Possono essere usati ma con cautela",
+      "Si devono sostituire"
+    ],
+    "correct": "Si devono sostituire"
+  },
+  {
+    "id": "52559",
+    "question": "A 123 - Nella fase di rientro dal sorpasso il conducente, deve:",
+    "answers": [
+      "Suonare, di giorno, per segnalare la manovra al veicolo sorpassato",
+      "Distanziarsi di almeno 100 metri dal veicolo sorpassato",
+      "Evitare manovre che impongono ai conducenti sorpassati di rallentare o di fermarsi"
+    ],
+    "correct": "Evitare manovre che impongono ai conducenti sorpassati di rallentare o di fermarsi"
+  },
+  {
+    "id": "52560",
+    "question": "A 124 - E' vietato il sorpasso:",
+    "answers": [
+      "Nelle strade a senso unico",
+      "Quando non si dispone di uno spazio libero sufficiente",
+      "Nelle ore notturne"
+    ],
+    "correct": "Quando non si dispone di uno spazio libero sufficiente"
+  },
+  {
+    "id": "52561",
+    "question": "A 125 - Lo spazio necessario alla manovra di sorpasso:",
+    "answers": [
+      "Aumenta se aumenta la velocità del veicolo sorpassato",
+      "Non interessa ai fini della sicurezza stradale",
+      "Non dipende dalla lunghezza dei veicoli sorpassante e sorpassato"
+    ],
+    "correct": "Aumenta se aumenta la velocità del veicolo sorpassato"
+  },
+  {
+    "id": "52562",
+    "question": "A 126 - Allorché ci accingiamo a scendere dall'autoveicolo dobbiamo:",
+    "answers": [
+      "Assicurarci, anche mediante lo specchietto retrovisore, che non sopraggiungano altri veicoli",
+      "Verificare, nella sosta davanti ad un passo carrabile, che rimanga spazio sufficiente per l'accesso",
+      "Lasciare sempre accese, di notte, le luci accese"
+    ],
+    "correct": "Assicurarci, anche mediante lo specchietto retrovisore, che non sopraggiungano altri veicoli"
+  },
+  {
+    "id": "52563",
+    "question": "A 127 - La corsia di accelerazione:",
+    "answers": [
+      "È destinata ai veicoli veloci",
+      "È riservata all'effettuazione dei sorpassi",
+      "Serve per l'immissione in autostrada"
+    ],
+    "correct": "Serve per l'immissione in autostrada"
+  },
+  {
+    "id": "52564",
+    "question": "A 128 - Soccorrere un infortunato:",
+    "answers": [
+      "È un dovere sancito dalla Costituzione Italiana",
+      "È un dovere imposto dal Codice Penale",
+      "È obbligatorio solo se si ritiene di poter agire in modo competente"
+    ],
+    "correct": "È un dovere imposto dal Codice Penale"
+  },
+  {
+    "id": "52565",
+    "question": "A 129 - La revisione della patente di guida può essere disposta:",
+    "answers": [
+      "Dall'autorità giudiziaria",
+      "Qualora sorgano dubbi sul persistere dei requisiti fisici e psichici",
+      "Per difetto dei requisiti fisici e psichici prescritti"
+    ],
+    "correct": "Qualora sorgano dubbi sul persistere dei requisiti fisici e psichici"
+  },
+  {
+    "id": "52566",
+    "question": "A 130 - Il sorpasso può essere effettuato a destra:",
+    "answers": [
+      "Quando avviene nei confronti dei motocicli e ci sia spazio sufficiente",
+      "Quando si percorre una strada extraurbana a senso unico",
+      "Quando il veicolo che precede abbia segnalato con l'indicatore di direzione che intende svoltare a sinistra"
+    ],
+    "correct": "Quando il veicolo che precede abbia segnalato con l'indicatore di direzione che intende svoltare a sinistra"
+  },
+  {
+    "id": "52567",
+    "question": "A 131 - II Carico deve essere sistemato sul veicolo in modo da:",
+    "answers": [
+      "Non impedire la libertà di movimenti nella guida",
+      "Non superare la sporgenza dello stesso dalla parte anteriore del veicolo di più dei tre decimi",
+      "Non superare di oltre il 10% la portata utile indicata sul documento di circolazione"
+    ],
+    "correct": "Non impedire la libertà di movimenti nella guida"
+  },
+  {
+    "id": "52568",
+    "question": "A 132 - E' obbligatorio rallentare la velocità e all'occorrenza anche fermarsi:",
+    "answers": [
+      "Quando riesca malagevole l'incrocio con altri veicoli",
+      "Nelle forti discese",
+      "Nelle ore notturne"
+    ],
+    "correct": "Quando riesca malagevole l'incrocio con altri veicoli"
+  },
+  {
+    "id": "52569",
+    "question": "A 133 - La fermata del veicolo non è consentita:",
+    "answers": [
+      "Nelle strade extraurbane, salvo casi di necessità",
+      "In corrispondenza ed in prossimità degli incroci",
+      "Sulle autostrade, in caso di necessità"
+    ],
+    "correct": "In corrispondenza ed in prossimità degli incroci"
+  },
+  {
+    "id": "52570",
+    "question": "A 134 - La frenatura poco efficiente o squilibrata può essere causata:",
+    "answers": [
+      "Dal carico erroneamente ripartito o eccessivo",
+      "Dall'insufficiente lubrificazione dei tamburi o dei dischi dei freni",
+      "Dall'eccessiva durezza dei dischi o dei tamburi dei freni"
+    ],
+    "correct":  "Dal carico erroneamente ripartito o eccessivo"
+  },
+  {
+    "id": "52571",
+    "question": "A 135 - Allorché, circolando di notte su strada extraurbana, veniamo abbagliati dai fari dell'autoveicolo che viene in senso opposto, occorre:",
+    "answers": [
+      "Procedere con prudenza, usando le luci anabbaglianti",
+      "Procedere a nostra volta con i fari abbaglianti, onde vedere bene la",
+      "Segnalare il pericolo azionando l'accensione simultanea di tutti gli indicatori di direzione"
+    ],
+    "correct": "Procedere con prudenza, usando le luci anabbaglianti"
+  },
+  {
+    "id": "52572",
+    "question": "A 136 - Il conducente che intende sorpassare deve assicurarsi che:",
+    "answers": [
+      "Disponga di uno spazio libero di almeno tre metri",
+      "La potenza del motore del proprio veicolo sia maggiore di quella del veicolo da sorpassare",
+      "Il conducente che precede non abbia dato i prescritti segnali per compiere analoga manovra"
+    ],
+    "correct": "Il conducente che precede non abbia dato i prescritti segnali per compiere analoga manovra"
+  },
+  {
+    "id": "52573",
+    "question": "A 137 - La sospensione della patente è disposta:",
+    "answers": [
+      "Quando il titolare, sottoposto ad esame di revisione, non risulti idoneo",
+      "Quando si superi il limite massimo di velocità di oltre 40 km/h",
+      "Quando si superi il limite massimo di velocità di oltre 30 km/h"
+    ],
+    "correct": "Quando si superi il limite massimo di velocità di oltre 40 km/h"
+  },
+  {
+    "id": "52574",
+    "question": "A 138 - Il veicolo, dopo un incidente stradale, può essere spostato:",
+    "answers": [
+      "Dopo che siano stati soccorsi gli eventuali feriti",
+      "Soltanto dopo che i conducenti si siano messi d'accordo sulla responsabilità dell'incidente",
+      "Mai, in quanto la rimozione dei veicoli deve essere fatta dall'autorità preposta al traffico"
+    ],
+    "correct": "Dopo che siano stati soccorsi gli eventuali feriti"
+  },
+  {
+    "id": "52575",
+    "question": "A 139 - In caso di incidente, si deve segnalare il pericolo ai veicoli che sopraggiungono:",
+    "answers": [
+      "Solo se l'incidente è avvenuto su strada extraurbana priva di illuminazione",
+      "Fuori dei centri abitati con l'apposito segnale di veicolo fermo, se si ingombra la carreggiata",
+      "Mai, se l'incidente è avvenuto in un centro abitato illuminato"
+    ],
+    "correct": "Fuori dei centri abitati con l'apposito segnale di veicolo fermo, se si ingombra la carreggiata"
+  },
+  {
+    "id": "52576",
+    "question": "A 140 - Si è tenuti a regolare la velocità, pur non superando i limiti di prescritti, a seconda:",
+    "answers": [
+      "Delle caratteristiche della strada",
+      "Della portata del veicolo",
+      "Della lunghezza del viaggio"
+    ],
+    "correct": "Delle caratteristiche della strada"
+  },
+  {
+    "id": "52577",
+    "question": "A 141 - La fermata del veicolo:",
+    "answers": [
+      "Può avere la durata massima di cinque minuti",
+      "È sempre consentita per chiedere informazioni agli agenti del traffico",
+      "È consentita, di norma, lungo il margine destro della carreggiata"
+    ],
+    "correct": "È consentita, di norma, lungo il margine destro della carreggiata"
+  },
+  {
+    "id": "52578",
+    "question": "A 142 - Il sorpasso è vietato quando:",
+    "answers": [
+      "Un veicolo si è fermato per consentire ai pedoni di attraversare la carreggiata",
+      "Sulle strade di montagna se si è preceduti da autobus di linea",
+      "Si è in prossimità di incroci regolati da semafori"
+    ],
+    "correct": "Un veicolo si è fermato per consentire ai pedoni di attraversare la carreggiata"
+  },
+  {
+    "id": "52579",
+    "question": "A 143 - Lungo le autostrade:",
+    "answers": [
+      "Occorre tenere sempre accesi gli indicatori di direzione di sinistra lungo la corsia di sorpasso",
+      "La banchina d'emergenza si può usare per la marcia dei veicoli solo in caso di traffico intasato",
+      "Sono vietati, l'attraversamento e l'inversione del senso di marcia"
+    ],
+    "correct": "Sono vietati, l'attraversamento e l'inversione del senso di marcia"
+  },
+  {
+    "id": "52580",
+    "question": "A 144 - Il sorpasso in prossimità di un dosso è consentito:",
+    "answers": [
+      "Sulle strade a due corsie e a doppio senso di marcia, sulla scia del veicolo che ci precede",
+      "Sulle strade a senso unico",
+      "Qualora il veicolo che precede abbia l'indicatore di direzione destro in funzione"
+    ],
+    "correct": "Sulle strade a senso unico"
+  },
+  {
+    "id": "52581",
+    "question": "A 145 - La distanza di sicurezza tra due veicoli deve essere sempre stabilita:",
+    "answers": [
+      "In relazione al fondo stradale",
+      "In almeno 20 m se il veicolo che precede è una macchina sgombraneve in azione",
+      "In relazione al veicolo che segue"
+    ],
+    "correct": "In relazione al fondo stradale"
+  },
+  {
+    "id": "52582",
+    "question": "A 146 - In caso di forte vento laterale è opportuno:",
+    "answers": [
+      "Usare i proiettori anabbaglianti",
+      "Ridurre la pressione dei pneumatici",
+      "Usare particolare cautela nel percorrere viadotti"
+    ],
+    "correct": "Usare particolare cautela nel percorrere viadotti"
+  },
+  {
+    "id": "52583",
+    "question": "A 147 - E' vietato il sorpasso:",
+    "answers": [
+      "Nei dossi, su carreggiate a senso unico di circolazione",
+      "In prossimità degli ospedali",
+      "Nelle corsie di decelerazione delle autostrade"
+    ],
+    "correct": "Nelle corsie di decelerazione delle autostrade"
+  },
+  {
+    "id": "52584",
+    "question": "A 148 - Le luci rosse lampeggianti possono indicare:",
+    "answers": [
+      "Posto di blocco di polizia",
+      "Uscita obbligatoria dall'autostrada",
+      "Passaggio a livello ferroviario con semi-barriere"
+    ],
+    "correct": "Passaggio a livello ferroviario con semi-barriere"
+  },
+  {
+    "id": "52585",
+    "question": "A 149 - Chi guida auto o motoveicoli deve esibire, a richiesta degli agenti, i seguenti documenti:",
+    "answers": [
+      "Atto di vendita",
+      "Tagliando di assicurazione",
+      "Carta d'identità"
+    ],
+    "correct": "Tagliando di assicurazione"
+  },
+  {
+    "id": "52586",
+    "question": "A 150 - Ciò che contraddistingue gli addetti a servizi di polizia stradale è:",
+    "answers": [
+      "La pistola",
+      "L'apposito fischietto",
+      "La \"paletta\" bianca e rossa"
+    ],
+    "correct": "La \"paletta\" bianca e rossa"
+  },
+
+
+
+
+  {
+    "id": "52377",
+    "question": "B 01 - In caso di evidente emorragia da un arto si deve:",
+    "answers": [
+      "Eseguire una fasciatura compressiva",
+      "Impedire che il soggetto beva acqua",
+      "Bendare la ferita e far camminare il soggetto per evitare lo shock"
+    ],
+    "correct": "Eseguire una fasciatura compressiva"
+  },
+  {
+    "id": "52378",
+    "question": "B 03 - In caso di evidente emorragia da un arto si deve:",
+    "answers": [
+      "Invitare il soggetto a parlare continuamente per mantenere intatto lo stato di coscienza",
+      "Impedire assolutamente che il soggetto beva acqua",
+      "Tamponare mediante compressione, possibilmente con materiale sterile, la fuoriuscita di sangue"
+    ],
+    "correct": "Tamponare mediante compressione, possibilmente con materiale sterile, la fuoriuscita di sangue"
+  },
+  {
+    "id": "52379",
+    "question": "B 04 - Soccorrere un infortunato della strada:",
+    "answers": [
+      "È un dovere in caso di incidente stradale",
+      "È solo un obbligo morale",
+      "È obbligatorio solo se il ferito è in gravissime condizioni"
+    ],
+    "correct": "È un dovere in caso di incidente stradale"
+  },
+  {
+    "id": "52380",
+    "question": "B 07 - Se si stanno eseguendo cure con farmaci che non hanno azione sedativa o eccitante:",
+    "answers": [
+      "Si può guidare solo se assunti a dosaggio molto basso",
+      "È consigliabile astenersi dalla guida",
+      "Si può guidare liberamente purchè le condizioni fisiche siano adeguate"
+    ],
+    "correct": "Si può guidare liberamente purchè le condizioni fisiche siano adeguate"
+  },
+  {
+    "id": "52381",
+    "question": "B 08 - Se la vittima di un incidente presenta un arto fratturato:",
+    "answers": [
+      "Dopo aver immobilizzato l'arto, attuare le comuni misure anti-shock",
+      "Somministrare al ferito una bevanda super alcolica",
+      "In attesa dell'ambulanza, mantenere vigile la vittima per evitare lo shock"
+    ],
+    "correct": "Dopo aver immobilizzato l'arto, attuare le comuni misure anti-shock"
+  },
+  {
+    "id": "52382",
+    "question": "B 10 - Allorchè si è coinvolti in un incidente stradale, è sempre obbligatorio soccorrere gli infortunati:",
+    "answers": [
+      "Soltanto quale atto umanitario non prescritto",
+      "Evitando ogni prestazione inadeguata e controproducente, chiedendo invece l'intervento sanitario",
+      "Segnalando al primo posto di pronto soccorso che si incontra il luogo dove è avvenuto l'incidente"
+    ],
+    "correct": "Evitando ogni prestazione inadeguata e controproducente, chiedendo invece l'intervento sanitario"
+  },
+  {
+    "id": "52383",
+    "question": "B 11 - Se la vittima di un incidente presenta ferite sanguinanti, si deve:",
+    "answers": [
+      "Se possibile, fare buon uso di pomate e polveri disinfettanti",
+      "Lavare con acqua pulita e disinfettare per quanto possibile la ferita",
+      "Non cospargere di polveri o pomate le ferite"
+    ],
+    "correct": "Non cospargere di polveri o pomate le ferite"
+  },
+  {
+    "id": "52384",
+    "question": "B 12 - Nel caso in cui l'infortunato abbia riportato un trauma della gabbia toracica, bisogna:",
+    "answers": [
+      "Far compiere al soggetto profonde respirazioni, sollevando ritmicamente gli arti superiori",
+      "In caso di ferita profonda, se non si ha a disposizione altro, comprimere con il palmo della mano",
+      "Farlo distendere supino con il capo reclinato all'indietro per facilitare la respirazione"
+    ],
+    "correct": "In caso di ferita profonda, se non si ha a disposizione altro, comprimere con il palmo della mano"
+  },
+  {
+    "id": "52385",
+    "question": "B 13 - Lo stato di shock:",
+    "answers": [
+      "Può essere causato da un forte sbalzo della temperatura ambientale",
+      "Può essere causato da una forte emozione",
+      "Può essere causato da forti vertigini"
+    ],
+    "correct": "Può essere causato da una forte emozione"
+  },
+  {
+    "id": "52386",
+    "question": "B 15 - Se si ha il sospetto che la vittima di un incidente stradale abbia riportato una frattura delle ossa del cranio si deve:",
+    "answers": [
+      "Palpare con accortezza la testa del soggetto per individuare eventuali fratture",
+      "Immobilizzare la testa con steccature od un collare",
+      "Se non respira, praticare la respirazione artificiale dopo aver liberato le vie respiratorie"
+    ],
+    "correct": "Se non respira, praticare la respirazione artificiale dopo aver liberato le vie respiratorie"
+  },
+  {
+    "id": "52387",
+    "question": "B 16 - Se si ha il sospetto che la vittima di un incidente stradale abbia riportato una frattura delle ossa del cranio si deve:",
+    "answers": [
+      "Vedere se respira ponendo una mano sul torace all'altezza dell'ultima costola di lato o sull'addome",
+      "Invitare il soggetto a parlare e a camminare per mantenere lo stato di vigilanza",
+      "Immobilizzare nel modo più assoluto il corpo"
+    ],
+    "correct": "Vedere se respira ponendo una mano sul torace all'altezza dell'ultima costola di lato o sull'addome"
+  },
+  {
+    "id": "52388",
+    "question": "B 17 - Quando la vittima di un incidente presenta un corpo estraneo in un occhio:",
+    "answers": [
+      "Invitare la vittima a massaggiare delicatamente la palpebra, onde favorire la lacrimazione",
+      "Bendare l'occhio ed avviare la vittima al più presto dall'oculista se il corpo è penetrato nel bulbo",
+      "Porre la vittima a testa in giù, onde facilitare per gravità, l'espulsione spontanea"
+    ],
+    "correct": "Bendare l'occhio ed avviare la vittima al più presto dall'oculista se il corpo è penetrato nel bulbo"
+  },
+  {
+    "id": "52389",
+    "question": "B 18 - Se la vittima presenta un corpo estraneo in un occhio si deve:",
+    "answers": [
+      "Cercare di rimuoverlo onde evitare infezioni",
+      "Impedire con ogni mezzo che la vittima chiuda l'occhio onde evitare ulteriori lesioni",
+      "Evitare sfregamenti sull'occhio da parte della vittima per evitare una lesione più grave"
+    ],
+    "correct": "Evitare sfregamenti sull'occhio da parte della vittima per evitare una lesione più grave"
+  },
+  {
+    "id": "52390",
+    "question": "B 19 - In caso di incidente stradale si deve chiamare il soccorso medico:",
+    "answers": [
+      "Non direttamente, ma attraverso la pubblica autorità",
+      "Solo se il ferito lo richiede",
+      "In tutti i casi di incoscienza del ferito"
+    ],
+    "correct": "Non direttamente, ma attraverso la pubblica autorità"
+  },
+  {
+    "id": "52391",
+    "question": "B 20 - Se si assumono degli psicofarmaci, si deve:",
+    "answers": [
+      "Evitare di mettersi alla guida di un auto",
+      "Viaggiare con la radio a volume alto per non addormentarsi",
+      "Evitare di guidare solo in autostrada"
+    ],
+    "correct": "Evitare di mettersi alla guida di un auto"
+  },
+  {
+    "id": "52392",
+    "question": "B 21 - Le manifestazioni principali dello stato di shock sono:",
+    "answers": [
+      "Colorito roseo, polso regolare ma stato di incoscienza",
+      "Movimento senza coordinazione degli arti superiori ed inferiori, che risultino freddi e rigidi",
+      "Stato di agitazione, pallore marcato, polso debole e frequente"
+    ],
+    "correct": "Stato di agitazione, pallore marcato, polso debole e frequente"
+  },
+  {
+    "id": "52393",
+    "question": "B 22 - Soccorrere un infortunato della strada:",
+    "answers": [
+      "È solo obbligo morale",
+      "È obbligatorio solo se il ferito è in gravissime condizioni",
+      "È un dovere in caso di investimento di una persona"
+    ],
+    "correct": "È un dovere in caso di investimento di una persona"
+  },
+  {
+    "id": "52394",
+    "question": "B 24 - Soccorrere un infortunato della strada:",
+    "answers": [
+      "È solo obbligo morale",
+      "È un dovere imposto dal Codice Penale",
+      "È obbligatorio solo se il ferito è in gravissime condizioni"
+    ],
+    "correct": "È un dovere imposto dal Codice Penale"
+  },
+  {
+    "id": "52395",
+    "question": "B 25 - Soccorrere un infortunato della strada:",
+    "answers": [
+      "È un dovere imposto dal Codice Penale",
+      "È un obbligo solo per medici e personale sanitario",
+      "È un dovere sancito dalla Costituzione Italiana"
+    ],
+    "correct": "È un dovere imposto dal Codice Penale"
+  },
+  {
+    "id": "52396",
+    "question": "B 30 - Se si ha il sospetto che la vittima abbia fratture delle ossa del cranio si deve:",
+    "answers": [
+      "Immobilizzare in modo più assoluto il corpo",
+      "Anche se non mostra segni esterni di lesioni, ed è vigile, chiamare l'ambulanza",
+      "Immobilizzare la testa con una steccatura"
+    ],
+    "correct": "Anche se non mostra segni esterni di lesioni, ed è vigile, chiamare l'ambulanza"
+  },
+  {
+    "id": "52397",
+    "question": "B 31 - Lo stato di shock:",
+    "answers": [
+      "Può essere causato da un forte aumento di pressione arteriosa",
+      "Può essere causato da una forte perdita di sangue",
+      "Può essere causato da violente vertigini"
+    ],
+    "correct": "Può essere causato da una forte perdita di sangue"
+  },
+  {
+    "id": "52398",
+    "question": "B 32 - Lo stato di shock:",
+    "answers": [
+      "Può essere causato da un forte sbalzo della temperatura ambientale",
+      "Può essere causato da una forte emozione",
+      "Può essere causato da un forte uso di farmaci antispastici"
+    ],
+    "correct":"Può essere causato da una forte emozione"
+  },
+  {
+    "id": "52399",
+    "question": "B 33 - Le manifestazioni principali dello stato di shock:",
+    "answers": [
+      "Pallore, cute fredda e brividi",
+      "Parole e frasi senza senso",
+      "Ampie macchie scure sulla pelle, sudata e fredda"
+    ],
+    "correct": "Pallore, cute fredda e brividi"
+  },
+  {
+    "id": "52400",
+    "question": "B 34 - Le manifestazioni principali dello stato di shock:",
+    "answers": [
+      "Parole e frasi senza senso",
+      "Movimento senza coordinazione degli arti, che risultano freddi e rigidi",
+      "Pallore, stato di agitazione, polso debole e frequente"
+    ],
+    "correct": "Pallore, stato di agitazione, polso debole e frequente"
+  },
+  {
+    "id": "52401",
+    "question": "B 35 - Qualora l'infortunato presenti uno stato di shock, si deve:",
+    "answers": [
+      "Far camminare il soggetto per favorire la circolazione e la respirazione",
+      "Somministrare una piccola quantità di bevanda alcolica",
+      "Stendere il soggetto supino, coprirlo con una coperta e tenere sollevati gli arti inferiori"
+    ],
+    "correct": "Stendere il soggetto supino, coprirlo con una coperta e tenere sollevati gli arti inferiori"
+  },
+  {
+    "id": "52402",
+    "question": "B 37 - Se il soggetto presenta una ferita sanguinante si deve:",
+    "answers": [
+      "Porre il ferito in posizione supina o seduto",
+      "Estrarre subito eventuali corpi estranei",
+      "Coprire la ferita con materiale possibilmente sterile per bloccare il sanguinamento"
+    ],
+    "correct": "Coprire la ferita con materiale possibilmente sterile per bloccare il sanguinamento"
+  },
+  {
+    "id": "52403",
+    "question": "B 38 - Se il soggetto presenta una ferita sanguinante si deve:",
+    "answers": [
+      "Detergere accuratamente la lesione con acqua pulita",
+      "Estrarre subito eventuali corpi estranei",
+      "Astenersi da lavare o disinfettare e coprire la ferita con materiale possibilmente sterile"
+    ],
+    "correct": "Astenersi da lavare o disinfettare e coprire la ferita con materiale possibilmente sterile"
+  },
+  {
+    "id": "52404",
+    "question": "B 39 - Se il soggetto presenta una ferita sanguinante si deve:",
+    "answers": [
+      "Fare uso di pomate e polveri disinfettanti",
+      "Non estrarre dalla ferita eventuali corpi estranei",
+      "Lavare con acqua pulita per disinfettare la ferita"
+    ],
+    "correct": "Non estrarre dalla ferita eventuali corpi estranei"
+  },
+  {
+    "id": "52405",
+    "question": "B 40 - In caso di emorragia da un arto si deve:",
+    "answers": [
+      "Eseguire una fasciatura compressiva",
+      "Curare la ferita e porre il soggetto in posizione laterale di sicurezza",
+      "Impedire assolutamente che il soggetto beva acqua"
+    ],
+    "correct": "Eseguire una fasciatura compressiva"
+  },
+  {
+    "id": "52406",
+    "question": "B 41 - In caso di emorragia da un arto si deve:",
+    "answers": [
+      "Curare la ferita e porre il soggetto in posizione laterale di sicurezza",
+      "Impedire assolutamente che il soggetto beva acqua",
+      "Premere la vena a valle dell'emorragia rispetto al cuore se si tratta di emorragia venosa"
+    ],
+    "correct": "Premere la vena a valle dell'emorragia rispetto al cuore se si tratta di emorragia venosa"
+  },
+  {
+    "id": "52407",
+    "question": "B 42 - In caso di emorragia da un arto si deve:",
+    "answers": [
+      "Far camminare il ferito per evitare lo shock",
+      "In caso di emorragia venosa, sollevare l'arto in modo che la ferita si trovi più in alto del cuore",
+      "Impedire assolutamente che il soggetto beva acqua"
+    ],
+    "correct": "In caso di emorragia venosa, sollevare l'arto in modo che la ferita si trovi più in alto del cuore"
+  },
+  {
+    "id": "52408",
+    "question": "B 43 - In caso di emorragia da un arto si deve:",
+    "answers": [
+      "Tamponare mediante compressione la fuoriuscita del sangue",
+      "Curare la ferita e porre il soggetto in posizione laterale di sicurezza",
+      "Somministrare zucchero e far camminare il soggetto per evitare lo shock"
+    ],
+    "correct": "Tamponare mediante compressione la fuoriuscita del sangue"
+  },
+  {
+    "id": "52409",
+    "question": "B 44 - Se la vittima di un incidente presenta un corpo estraneo in un occhio si deve:",
+    "answers": [
+      "Cercare a tutti i costi di rimuoverlo, per evitare infezioni",
+      "Evitare sfregamenti da parte della vittima sull'occhio, per evitare l'aggravamento della lesione",
+      "Porre la vittima a testa in giù, per facilitare la fuoriuscita spontanea del corpo estraneo"
+    ],
+    "correct": "Evitare sfregamenti da parte della vittima sull'occhio, per evitare l'aggravamento della lesione"
+  },
+  {
+    "id": "52410",
+    "question": "B 46 - Nel caso in cui un infortunato abbia riportato lesioni alla gabbia toracica, bisogna:",
+    "answers": [
+      "Far distendere il soggetto in posizione di sicurezza",
+      "Far stare il soggetto in piedi, per evitare la fuoriuscita di sangue",
+      "Facilitare la respirazione ponendo il soggetto semi seduto e proibirgli di bere e mangiare"
+    ],
+    "correct": "Facilitare la respirazione ponendo il soggetto semi seduto e proibirgli di bere e mangiare"
+  },
+  {
+    "id": "52411",
+    "question": "B 47 - Nel caso in cui un infortunato abbia riportato lesioni alla gabbia toracica, bisogna:",
+    "answers": [
+      "In caso di ferita profonda, se non si ha a disposizione altro, comprimere con il palmo della mano",
+      "In caso di ferita profonda, disinfettare e detergere la lesione",
+      "Far compiere profonde respirazioni, sollevando ritmicamente gli arti superiori"
+    ],
+    "correct": "In caso di ferita profonda, se non si ha a disposizione altro, comprimere con il palmo della mano"
+  },
+  {
+    "id": "52412",
+    "question": "B 48 - La respirazione artificiale:",
+    "answers": [
+      "Si pratica alzando le braccia dell'infortunato e soffiando sulla bocca",
+      "Va praticata anche quando l'infortunato respira lentamente",
+      "Va praticata con il sistema bocca a bocca o bocca a naso"
+    ],
+    "correct": "Va praticata con il sistema bocca a bocca o bocca a naso"
+  },
+  {
+    "id": "52413",
+    "question": "B 49 - Allorché si è coinvolti in un incidente stradale, è sempre obbligatorio soccorrere gli infortunati:",
+    "answers": [
+      "Soltanto se si è diretti responsabili dell'incidente",
+      "Ponendo il ferito in posizione di sicurezza se questo è incosciente",
+      "Soltanto quale atto umanitario"
+    ],
+    "correct": "Ponendo il ferito in posizione di sicurezza se questo è incosciente"
+  },
+  {
+    "id": "52414",
+    "question": "B 50 - La respirazione artificiale:",
+    "answers": [
+      "Si pratica con il capo posto in posizione laterale sinistra",
+      "Va praticata solo dopo aver accertato l'assenza di corpi estranei nel cavo orale",
+      "È di vitale importanza quando l'infortunato è in stato di shock"
+    ],
+    "correct": "Va praticata solo dopo aver accertato l'assenza di corpi estranei nel cavo orale"
+  },
+  {
+    "id": "52415",
+    "question": "B 51 - Se a seguito d'incendio, l'infortunato presenta gli abiti in fiamme, si deve:",
+    "answers": [
+      "Aspettare che si spengano e poi coprire le ustioni",
+      "Estinguere le fiamme in ogni caso, anche con un estintore",
+      "Soffocare le fiamme allo scopo di spegnerle"
+    ],
+    "correct": "Soffocare le fiamme allo scopo di spegnerle"
+  },
+  {
+    "id": "52416",
+    "question": "B 52 - Se a seguito d'incendio, l'infortunato presenta segni di ustione, si deve:",
+    "answers": [
+      "Se l'ustione riguarda gli arti, immergerli in acqua fredda al fine di attenuare il dolore",
+      "Pulire e disinfettare la zona ustionata",
+      "Ricorrere a polveri e pomate antiustione"
+    ],
+    "correct": "Se l'ustione riguarda gli arti, immergerli in acqua fredda al fine di attenuare il dolore"
+  },
+  {
+    "id": "52417",
+    "question": "B 53 - Nel caso in cui la vittima presenti uno o più arti fratturati, si deve:",
+    "answers": [
+      "In caso di frattura esposta, cercare di reinserire nei tessuti il moncone osseo sporgente",
+      "Invitare la vittima a muovere l'arto fratturato per valutare le lesioni",
+      "Nelle fratture esposte, immobilizzare l'arto e coprire la ferita con materiale sterile e pulito"
+    ],
+    "correct": "Nelle fratture esposte, immobilizzare l'arto e coprire la ferita con materiale sterile e pulito"
+  },
+  {
+    "id": "52418",
+    "question": "B 54 - Nel caso in cui la vittima presenti uno o più arti fratturati, si deve:",
+    "answers": [
+      "Non muovere l'arto fratturato",
+      "Invitare la vittima a muovere l'arto fratturato per valutare le lesioni",
+      "Somministrare al ferito alcool per evitare lo shock"
+    ],
+    "correct": "Non muovere l'arto fratturato"
+  },
+  {
+    "id": "52419",
+    "question": "B 55 - Nel caso in cui la vittima presenti uno o più arti fratturati, si deve:",
+    "answers": [
+      "Immobilizzare con mezzi di fortuna l'arto fratturato",
+      "Invitare la vittima ad assumere una posizione comoda per ridurre il dolore",
+      "Mantenere vigile il ferito, in attesa dell'ambulanza, per evitare lo shock"
+    ],
+    "correct": "Immobilizzare con mezzi di fortuna l'arto fratturato"
+  },
+  {
+    "id": "52420",
+    "question": "B 59 - Manifestazioni principali dello shock:",
+    "answers": [
+      "Parole e frasi senza senso",
+      "Colorito roseo, polso regolare ma stato di incoscienza",
+      "Pallore, cute fredda e brividi"
+    ],
+    "correct": "Pallore, cute fredda e brividi"
+  },
+  {
+    "id": "52421",
+    "question": "B 61 - Allorché si è coinvolti in un incidente stradale è sempre obbligatorio soccorrere gli infortunati:",
+    "answers": [
+      "Cercando di rianimare a tutti costi ogni ferito in stato di incoscienza",
+      "Spostandoli subito dal luogo dell'incidente per evitare intralcio alla circolazione",
+      "Basandosi su conoscenze di primo soccorso"
+    ],
+    "correct": "Basandosi su conoscenze di primo soccorso"
+  },
+  {
+    "id": "52422",
+    "question": "B 62 - Il conducente che accusa segni di stanchezza cosa deve fare?",
+    "answers": [
+      "Tenere un'andatura sostenuta per conservare desta l'attenzione e giungere presto a destinazione",
+      "Raggiungere la più vicina piazzola di sosta e riposare",
+      "Accostarsi il più possibile vicino al veicolo che lo precede"
+    ],
+    "correct": "Raggiungere la più vicina piazzola di sosta e riposare"
+  },
+  {
+    "id": "52423",
+    "question": "B 63 - Se si assumono farmaci che inducano sonnolenza, si deve:",
+    "answers": [
+      "Assumere alcolici e caffè, per rimanere svegli",
+      "Evitare di mettersi alla guida",
+      "Tenere la radio accesa ad alto volume, per rimanere svegli"
+    ],
+    "correct": "Evitare di mettersi alla guida"
+  },
+  {
+    "id": "52424",
+    "question": "B 64 - Se si assumono farmaci che inducano eccitazione, si deve:",
+    "answers": [
+      "Evitare la guida solo su autostrade",
+      "Evitare la guida solo su strade urbane",
+      "Evitare di mettersi alla guida"
+    ],
+    "correct": "Evitare di mettersi alla guida"
+  },
+  {
+    "id": "52425",
+    "question": "B 65 - Soccorrere un motociclista incidentato, sdraiato sulla carreggiata:",
+    "answers": [
+      "È solo un obbligo morale",
+      "È obbligatorio solo se il ferito è in gravissime condizioni",
+      "È un dovere"
+    ],
+    "correct": "È un dovere"
+  },
+  {
+    "id": "52426",
+    "question": "B 68 - Il fine del primo soccorso è:",
+    "answers": [
+      "Mettere la vittima in una posizione comoda",
+      "Praticare la respirazione artificiale",
+      "Attuare misure di sopravvivenza"
+    ],
+    "correct": "Attuare misure di sopravvivenza"
+  },
+  {
+    "id": "52427",
+    "question": "B 69 - Il fine del primo soccorso è:",
+    "answers": [
+      "Non far toccare nulla per favorire il lavoro della Polizia",
+      "Mettere la vittima in posizione supina",
+      "Assistere l'infortunato in attesa del soccorso medico"
+    ],
+    "correct": "Assistere l'infortunato in attesa del soccorso medico"
+  },
+  {
+    "id": "52428",
+    "question": "B 70 - Il fine del primo soccorso è:",
+    "answers": [
+      "Attuare misure di sopravvivenza",
+      "Mettere la vittima in posizione supina",
+      "Portare la vittima comunque lontano dall'incidente"
+    ],
+    "correct": "Attuare misure di sopravvivenza"
+  },
+  {
+    "id": "52429",
+    "question": "B 71 - Se si ha il sospetto che la vittima abbia fratture delle ossa del cranio si deve:",
+    "answers": [
+      "Immobilizzare gli arti superiori",
+      "Somministrare acqua",
+      "Se respira spontaneamente, porlo in posizione laterale di sicurezza con molta cautela"
+    ],
+    "correct": "Se respira spontaneamente, porlo in posizione laterale di sicurezza con molta cautela"
+  },
+  {
+    "id": "52430",
+    "question": "B 72 - Se si ha il sospetto che la vittima abbia fratture delle ossa del cranio si deve:",
+    "answers": [
+      "Immobilizzare gli arti superiori",
+      "Anche se non mostra segni esterni di lesioni, ed è vigile, chiamare l'ambulanza",
+      "Somministrare alcolici"
+    ],
+    "correct": "Anche se non mostra segni esterni di lesioni, ed è vigile, chiamare l'ambulanza"
+  },
+  {
+    "id": "52431",
+    "question": "B 73 - Qualora l'infortunato presenti stato di shock, si deve:",
+    "answers": [
+      "Far sedere il soggetto con la testa reclinata all'indietro, per favorire la respirazione",
+      "Porre il soggetto con gli atri distesi",
+      "Stendere il soggetto supino, coprirlo con una coperta e tenere sollevati gli arti inferiori"
+    ],
+    "correct": "Stendere il soggetto supino, coprirlo con una coperta e tenere sollevati gli arti inferiori"
+  },
+  {
+    "id": "52432",
+    "question": "B 77 - Se un soggetto presenta una ferita sanguinante si deve:",
+    "answers": [
+      "Fare uso di pomate e polveri disinfettanti",
+      "Non estrarre dalla ferita eventuali corpi estranei",
+      "Non intervenire per evitare di procurare shock"
+    ],
+    "correct": "Non estrarre dalla ferita eventuali corpi estranei"
+  },
+  {
+    "id": "52433",
+    "question": "B 79 - In caso di emorragia da un arto si deve:",
+    "answers": [
+      "Curare la ferita e porre il soggetto in posizione laterale di sicurezza",
+      "Impedire assolutamente che il soggetto beva acqua",
+      "Tamponare l'emorragia"
+    ],
+    "correct": "Tamponare l'emorragia"
+  },
+  {
+    "id": "52434",
+    "question": "B 83 - Se la vittima di un incidente presenta un corpo estraneo in un occhio si deve:",
+    "answers": [
+      "Cercare a tutti i costi di rimuoverlo, per evitare infezioni",
+      "Bendare l'occhio, senza rimuovere il corpo estraneo se penetrato nel bulbo",
+      "Invitare la vittima a massaggiare delicatamente la palpebra per favorire la lacrimazione"
+    ],
+    "correct": "Bendare l'occhio, senza rimuovere il corpo estraneo se penetrato nel bulbo"
+  },
+  {
+    "id": "52435",
+    "question": "B 86 - La respirazione artificiale:",
+    "answers": [
+      "Si pratica al soggetto posto in posizione seduta",
+      "Va praticata anche quando l'infortunato respira lentamente",
+      "Va praticata con il sistema bocca a bocca o bocca a naso"
+    ],
+    "correct": "Va praticata con il sistema bocca a bocca o bocca a naso"
+  },
+  {
+    "id": "52436",
+    "question": "B 87 - La respirazione artificiale:",
+    "answers": [
+      "Si pratica quando l'infortunato è in stato di shock",
+      "Va praticata solo dopo aver accertato l'assenza di corpi estranei nel cavo orale",
+      "Va praticata solo con apposite apparecchiature"
+    ],
+    "correct": "Va praticata solo dopo aver accertato l'assenza di corpi estranei nel cavo orale"
+  },
+
+
+
+
+
+
+  {
+    "id": "52587",
+    "question": "C 1 – Qual è la formula assicurativa R.C.A. che premia l'assicurato che nel corso dell'anno non ha provocato danni a terzi?",
+    "answers": [
+      "Bonus – Malus",
+      "A franchigia fissa",
+      "A contrattazione diretta"
+    ],
+    "correct": "Bonus – Malus"
+  },
+  {
+    "id": "52588",
+    "question": "C 2 - Il proprietario di un veicolo, che ha provocato il danno a persone e/o cose, è responsabile in solido con il conducente?",
+    "answers": [
+      "Se non prova che la circolazione del veicolo è avvenuta contro la sua volontà",
+      "Sempre",
+      "Mai"
+    ],
+    "correct": "Sempre"
+  },
+  {
+    "id": "52589",
+    "question": "C 3 -Quali sono i criteri con i quali si determinano, la tariffa annua ed i massimali minimi per l'assicurazione R.C.A.?",
+    "answers": [
+      "Secondo il numero degli abitanti della provincia in cui è immatricolato il veicolo",
+      "Stabiliti dalla compagnia di assicurazione",
+      "In base alla frequenza degli incidenti verificatesi nella provincia in cui è immatricolato il veicolo"
+    ],
+    "correct": "In base alla frequenza degli incidenti verificatesi nella provincia in cui è immatricolato il veicolo"
+  },
+  {
+    "id": "52590",
+    "question": "C 4 -Le lesioni a persone, o le conseguenze derivanti, danno luogo a responsabilità penali a carico del proprietario del veicolo, quando quest'ultimo non conduca il veicolo stesso?",
+    "answers": [
+      "Si",
+      "No",
+      "Secondo quanto stabilisce il Giudice"
+    ],
+    "correct": "No"
+  },
+  {
+    "id": "52591",
+    "question": "C 5-E' obbligatoria per gli autoveicoli circolanti sulla pubblica strada l'assicurazione R.C.A. in base alla Legge N° 990 del 24.12.69?",
+    "answers": [
+      "Solo per alcuni autoveicoli",
+      "No",
+      "Si"
+    ],
+    "correct": "Si"
+  },
+  {
+    "id": "52592",
+    "question": "C 6 - Quando la società di assicurazione ha il diritto di rivalsa nei confronti del proprietario e del conducente il veicolo che ha causato il ?",
+    "answers": [
+      "Quando sia trascorsa la mezzanotte del giorno di scadenza della polizza assicurativa",
+      "Quando non siano rispettate le condizioni di trasporto fissate dalle vigenti Leggi e le indicazioni riportate sulla carta di circolazione",
+      "Quando il conducente abbia compiuto il sessantacinquesimo anno di età"
+    ],
+    "correct": "Quando non siano rispettate le condizioni di trasporto fissate dalle vigenti Leggi e le indicazioni riportate sulla carta di circolazione"
+  },
+  {
+    "id": "52593",
+    "question": "C 7 - La licenza taxi può essere attribuita:",
+    "answers": [
+      "A seguito di bando pubblico concorso esperito dal Comune",
+      "A seguito di bando pubblico concorso esperito dalla Regione",
+      "Facendone regolare domanda al Sindaco del Comune di residenza"
+    ],
+    "correct": "A seguito di bando pubblico concorso esperito dal Comune"
+  },
+  {
+    "id": "52594",
+    "question": "C 8 – In quale caso è ammesso il cumulo di licenza taxi ed autorizzazione NCC?",
+    "answers": [
+      "Assolutamente in nessun caso",
+      "Quando la licenza taxi è per un natante",
+      "Quando le autorizzazioni NCC non siano più di una"
+    ],
+    "correct": "Quando la licenza taxi è per un natante"
+  },
+  {
+    "id": "52595",
+    "question": "C 9 – Chi è autorizzato ad emettere assegni circolari?",
+    "answers": [
+      "Istituti di credito",
+      "Società",
+      "Titolari di conto corrente bancario"
+    ],
+    "correct": "Istituti di credito"
+  },
+  {
+    "id": "52596",
+    "question": "C 10 – La cambiale può essere trasferita mediante girata?",
+    "answers": [
+      "Si",
+      "No",
+      "Si, a condizione che non vi sia esclusa tale possibilità da apposita clausola"
+    ],
+    "correct": "Si, a condizione che non vi sia esclusa tale possibilità da apposita clausola"
+  },
+  {
+    "id": "52597",
+    "question": "C 11 - L'assicurazione per la responsabilità civile auto (R.C.A.), obbligatoria per legge, comprende:",
+    "answers": [
+      "Il risarcimento dei danni provocati dal veicolo, solo se guidato dal proprietario",
+      "L'incendio, il furto e il danno a terzi entro i massimali",
+      "Il risarcimento dei danni provocati a terzi trasportati entro i massimali"
+    ],
+    "correct": "Il risarcimento dei danni provocati a terzi trasportati entro i massimali"
+  },
+  {
+    "id": "52598",
+    "question": "C 12 – Quale di queste pene è prevista per i conducenti di veicoli, circolanti sulla pubblica strada, privi di assicurazione R.C.A.?",
+    "answers": [
+      "Sequestro del veicolo",
+      "Arresto fino a due mesi",
+      "Ritiro della patente di guida"
+    ],
+    "correct": "Sequestro del veicolo"
+  },
+  {
+    "id": "52599",
+    "question": "C 13 – Quale di queste pene è prevista per i conducenti di veicoli, circolanti sulla pubblica strada, privi di assicurazione R.C.A.?",
+    "answers": [
+      "Arresto fino a sei mesi",
+      "Ritiro della patente di guida",
+      "Sanzione pecuniaria da un milione a quattro milioni di lire"
+    ],
+    "correct": "Sanzione pecuniaria da un milione a quattro milioni di lire"
+  },
+  {
+    "id": "52600",
+    "question": "C 14 – Quante volte deve comparire nella cambiale l'importo della somma da pagare?",
+    "answers": [
+      "Tre",
+      "Due",
+      "Una"
+    ],
+    "correct": "Due"
+  },
+  {
+    "id": "52601",
+    "question": "C 15 – Il conducente è presunto responsabile nei confronti dei trasportati?",
+    "answers": [
+      "Solo se è dimostrata la sua colpa",
+      "Sempre",
+      "Mai"
+    ],
+    "correct": "Sempre"
+  },
+  {
+    "id": "52602",
+    "question": "C 16 – Con che termine giuridico si definisce la persona che riceve da un'altra l'ordine di pagare una data somma di denaro ad una terza",
+    "answers": [
+      "Intermediario",
+      "Trattario",
+      "Trattante"
+    ],
+    "correct": "Trattario"
+  },
+  {
+    "id": "52603",
+    "question": "C 17 – Con che termine giuridico si definisce la persona a cui viene pagata una data somma di denaro per ordine di un'altra, tramite una terza persona?",
+    "answers": [
+      "Destinatario",
+      "Prenditore",
+      "Contraente"
+    ],
+    "correct": "Prenditore"
+  },
+  {
+    "id": "52604",
+    "question": "C 18 – Come sono definiti i servizi di trasporto che si svolgono su determinati itinerari prestabiliti e con concessione amministrativa?",
+    "answers": [
+      "Trasporto su linea prestabilita",
+      "Servizi pubblici di linea",
+      "Concessione pubblica di linea"
+    ],
+    "correct": "Servizi pubblici di linea"
+  },
+  {
+    "id": "52605",
+    "question": "C 19 – Quando il conducente di un veicolo è obbligato a risarcire il danno da lui prodotto a persone e/o cose?",
+    "answers": [
+      "Sempre",
+      "Quando non può provare di aver fatto tutto il possibile onde evitare l'evento",
+      "Mai"
+    ],
+    "correct": "Quando non può provare di aver fatto tutto il possibile onde evitare l'evento"
+  },
+  {
+    "id": "52606",
+    "question": "C 20 – La polizza di assicurazione per la responsabilità civile auto (RCA) copre:",
+    "answers": [
+      "Ogni forma di responsabilità, in proporzione al premio pagato",
+      "I rischi che gravano sul conducente, ma non sul proprietario del veicolo",
+      "I danni ai trasportati"
+    ],
+    "correct": "I danni ai trasportati"
+  },
+  {
+    "id": "52607",
+    "question": "C 21 - La polizza di assicurazione per la responsabilità civile auto (RCA) copre:",
+    "answers": [
+      "Ogni forma di responsabilità, in proporzione al premio pagato",
+      "I rischi che gravano sul conducente, ma non sul proprietario del veicolo",
+      "La responsabilità per i sinistri occorsi anche nei paesi CEE"
+    ],
+    "correct": "La responsabilità per i sinistri occorsi anche nei paesi CEE"
+  },
+  {
+    "id": "52608",
+    "question": "C 22 - La polizza di assicurazione per la responsabilità civile auto (RCA) copre:",
+    "answers": [
+      "I rischi che gravano sul conducente, ma non sul proprietario del veicolo",
+      "La responsabilità civile gravante sul conducente e sul proprietario",
+      "Ogni forma di responsabilità, in proporzione al premio pagato"
+    ],
+    "correct": "La responsabilità civile gravante sul conducente e sul proprietario"
+  },
+  {
+    "id": "52609",
+    "question": "C 23 - La polizza di assicurazione per la responsabilità civile auto (RCA) obbligatoria per legge comprende:",
+    "answers": [
+      "Il risarcimento del danno provocato a terzi, entro i massimali",
+      "I danni subiti dal proprietario del veicolo alla guida, entro i massimali",
+      "Il risarcimento dei danni provocati dal veicolo solo se guidato dal proprietario"
+    ],
+    "correct": "Il risarcimento del danno provocato a terzi, entro i massimali"
+  },
+  {
+    "id": "52610",
+    "question": "C 24 – In relazione al contratto di assicurazione RCA stipulato, l'impresa assicuratrice deve rilasciare al contraente:",
+    "answers": [
+      "Un libretto sui precetti di pronto soccorso",
+      "La polizza di assicurazione",
+      "Un estratto del Codice Civile contenente articoli che riguardano l'assicurazione di veicoli"
+    ],
+    "correct": "La polizza di assicurazione"
+  },
+  {
+    "id": "52611",
+    "question": "C 25 – In relazione al contratto di assicurazione RCA stipulato, l'impresa assicuratrice deve rilasciare al contraente:",
+    "answers": [
+      "Un libretto sui precetti di pronto soccorso",
+      "Un certificato da esibire a richiesta assieme alla carta di circolazione",
+      "Un estratto del Codice Civile contenente articoli che riguardano l'assicurazione di veicoli"
+    ],
+    "correct": "Un certificato da esibire a richiesta assieme alla carta di circolazione"
+  },
+  {
+    "id": "52612",
+    "question": "C 26 – In relazione al contratto di assicurazione RCA stipulato, l'impresa assicuratrice deve rilasciare al contraente:",
+    "answers": [
+      "Una custodia per il contrassegno e per l'attestato",
+      "Un attestato annuo relativo allo stato di rischio",
+      "Un estratto del Codice Civile contenente articoli che riguardano l'assicurazione di veicoli"
+    ],
+    "correct": "Un attestato annuo relativo allo stato di rischio"
+  },
+  {
+    "id": "52613",
+    "question": "C 27 – I massimali della polizza di assicurazione RCA:",
+    "answers": [
+      "Sono i premi che le imprese assicuratrici possono richiedere",
+      "Vengono pagati all'atto della stipula del contratto",
+      "Rappresentano le somme massime pagate dall'impresa in caso di sinistro"
+    ],
+    "correct": "Rappresentano le somme massime pagate dall'impresa in caso di sinistro"
+  },
+  {
+    "id": "52614",
+    "question": "C 28 - I massimali della polizza di assicurazione RCA:",
+    "answers": [
+      "Rimangono invariati nel tempo, fino alla stipula di un nuovo contratto",
+      "Sono i premi che le imprese assicuratrici possono richiedere",
+      "Non possono essere diminuiti al di sotto di un minimo di legge"
+    ],
+    "correct": "Non possono essere diminuiti al di sotto di un minimo di legge"
+  },
+  {
+    "id": "52615",
+    "question": "C 29-Nell'assicurazione RCA il contratto con la formula \"bonus - malus\":",
+    "answers": [
+      "Comporta delle classi di assegnazione, che possono variare di anno in",
+      "Viene annullato in caso di incidente con danno a persone",
+      "Riguarda solo le polizze stipulate per gli autoveicoli in servizio da piazza"
+    ],
+    "correct": "Comporta delle classi di assegnazione, che possono variare di anno in"
+  },
+  {
+    "id": "52616",
+    "question": "C 30 - Nell'assicurazione RCA il contratto con la formula \"bonus - malus\":",
+    "answers": [
+      "Viene annullato in caso di incidente con danno a persone",
+      "Garantisce comunque la copertura del sinistro entro i massimali",
+      "Comporta l'obbligo per i contraenti di risarcire una parte del danno"
+    ],
+    "correct": "Garantisce comunque la copertura del sinistro entro i massimali"
+  },
+  {
+    "id": "52617",
+    "question": "C 31 - Nell'assicurazione RCA il contratto con la formula \"bonus malus\":",
+    "answers": [
+      "Viene annullato in caso di incidente con danno a persone",
+      "Consente la determinazione annua del premio di assicurazione",
+      "Comporta l'obbligo per i contraenti di risarcire una parte del danno"
+    ],
+    "correct": "Consente la determinazione annua del premio di assicurazione"
+  },
+
+
+
+
+
+
+
+
+  {
+    "id": "52618",
+    "question": "D 01 – Come si definisce “l'accordo di due o più parti per costituire, regolare od estinguere un rapporto giuridico-patrimoniale”?",
+    "answers": [
+      "Trattativa",
+      "Contratto",
+      "Clausola"
+    ],
+    "correct": "Contratto"
+  },
+  {
+    "id": "52619",
+    "question": "D 02 – Le parti, nel sottoscrivere un contratto, possono porre deroghe anche in presenza di norme imperative?",
+    "answers": [
+      "No",
+      "Si",
+      "Solo a determinate condizioni"
+    ],
+    "correct": "No"
+  },
+  {
+    "id": "52620",
+    "question": "D 03 – Quando un individuo acquisisce la capacità per sottoscrivere un contratto?",
+    "answers": [
+      "Quando può dimostrare la sua capacità finanziaria",
+      "Con il compimento del diciottesimo anno di età",
+      "Con il compimento del venticinquesimo anno di età"
+    ],
+    "correct": "Con il compimento del diciottesimo anno di età"
+  },
+  {
+    "id": "52621",
+    "question": "D 04 – L'oggetto di un contratto può essere rappresentato da cosa materiale?",
+    "answers": [
+      "Non sempre",
+      "Sempre",
+      "Mai"
+    ],
+    "correct": "Non sempre"
+  },
+  {
+    "id": "52622",
+    "question": "D 05 – L'oggetto di un contratto può essere contrario alla legge, all'ordine pubblico o al buon costume?",
+    "answers": [
+      "Solo se le parti sono concordi",
+      "No",
+      "Si"
+    ],
+    "correct": "No"
+  },
+  {
+    "id": "52623",
+    "question": "D 06 – In un contratto, quali sono le norme che regolano la formazione degli atti negoziali in generale?",
+    "answers": [
+      "Quelle dettate dalla volontà delle parti contraenti",
+      "Quelle dettate dal Codice Penale",
+      "Quelle dettate dal Codice Civile"
+    ],
+    "correct": "Quelle dettate dal Codice Civile"
+  },
+  {
+    "id": "52624",
+    "question": "D 07 – Quando diviene impegnativa la disponibilità a contrattare espressa con una proposta?",
+    "answers": [
+      "Mai",
+      "Solo quando è stipulato con atto notarile",
+      "Nel momento in cui è accettata dal destinatario"
+    ],
+    "correct": "Nel momento in cui è accettata dal destinatario"
+  },
+  {
+    "id": "52625",
+    "question": "D 08 – In una proposta, il proponente può ritirare in ogni momento la sua offerta?",
+    "answers": [
+      "Non sempre",
+      "No, mai",
+      "Si, sempre"
+    ],
+    "correct": "Non sempre"
+  },
+  {
+    "id": "52626",
+    "question": "D 09 – In un contratto di trasporto, come si definisce la parte che si impegna, dietro pagamento di un corrispettivo, a trasferire persone e/o cose da un luogo ad un altro?",
+    "answers": [
+      "Vetturale",
+      "Vettore",
+      "Vetturino"
+    ],
+    "correct": "Vettore"
+  },
+  {
+    "id": "52627",
+    "question": "D 10 – Con che termine giuridico si definisce la persona che dà a un'altra l'ordine di pagare una data somma di denaro ad una terza",
+    "answers": [
+      "Ordinario",
+      "Traente",
+      "Mandante"
+    ],
+    "correct": "Traente"
+  },
+  {
+    "id": "52628",
+    "question": "D 11 – In un contratto, con cui la parte si obbliga a trasportare persone, si possono validamente inserire clausole che escludano la responsabilità civile per dolo o colpa grave per sinistri che arrechino danno al trasportato o alle cose che quest'ultimo porta con sé?",
+    "answers": [
+      "Si, sempre",
+      "No, mai",
+      "Si, a determinate condizioni"
+    ],
+    "correct": "No, mai"
+  },
+  {
+    "id": "52629",
+    "question": "D 12 – In un contratto con cui un soggetto si obbliga a trasferire persone, si può validamente limitare la responsabilità civile di questo per sinistri che arrechino danni al trasportato?",
+    "answers": [
+      "No, mai",
+      "Si, a determinate condizioni",
+      "Si, sempre"
+    ],
+    "correct": "No, mai"
+  },
+  {
+    "id": "52630",
+    "question": "D 13 - I contratti per il trasporto di persone sono disciplinati per quanto riguarda",
+    "answers": [
+      "La responsabilità dei trasportati",
+      "La responsabilità del trasportatore e dei trasportati",
+      "La responsabilità del vettore"
+    ],
+    "correct": "La responsabilità del vettore"
+
+  },
+  {
+    "id": "52631",
+    "question": "D 14 – Il negozio giuridico con cui due o più parti conferiscono beni e/o servizi, per il comune esercizio di un'attività economica, come si",
+    "answers": [
+      "Società",
+      "Contratto",
+      "Cooperazione"
+    ],
+    "correct": "Società"
+  },
+  {
+    "id": "52632",
+    "question": "D 15 – Come si definisce la prestazione con cui il socio assolve all'obbligo di apporto assunto all'atto della costituzione della società?",
+    "answers": [
+      "Conferimento",
+      "Vendita",
+      "Prestito"
+    ],
+    "correct": "Conferimento"
+  },
+  {
+    "id": "52633",
+    "question": "D 16 – Nel corso dell'esistenza di una società può essere cambiato l'oggetto sociale?",
+    "answers": [
+      "No",
+      "Si",
+      "Si, solo se si modifica il suo atto costitutivo"
+    ],
+    "correct": "Si, solo se si modifica il suo atto costitutivo"
+  },
+  {
+    "id": "52634",
+    "question": "D 17 – In quale di questi tre tipi di società può essere esercitata l'attività di tassista?",
+    "answers": [
+      "Società cooperativa",
+      "Società in nome collettivo",
+      "Società a responsabilità limitata"
+    ],
+    "correct": "Società cooperativa"
+  },
+  {
+    "id": "52635",
+    "question": "D 18 – I creditori di un socio di una società di capitali possono rivalersi sulla quota sociale?",
+    "answers": [
+      "Si",
+      "No",
+      "Solo a determinate condizioni"
+    ],
+    "correct": "No"
+  },
+  {
+    "id": "52636",
+    "question": "D 19 – I creditori di una società di capitali possono rivalersi sul patrimonio personale del singolo socio?",
+    "answers": [
+      "Solo a determinate condizioni",
+      "No",
+      "Si"
+    ],
+    "correct": "No"
+  },
+  {
+    "id": "52637",
+    "question": "D 20 – Come si definisce l'organizzazione che persegue la realizzazione di un risultato utile, di carattere non economico, a favore dei propri partecipanti?",
+    "answers": [
+      "Associazione",
+      "Assolvimento",
+      "Assoggettazione"
+    ],
+    "correct": "Associazione"
+  },
+  {
+    "id": "52638",
+    "question": "D 21 – Come si definisce la situazione giuridica di cotitolarietà caratterizzata dal godimento del bene?",
+    "answers": [
+      "Collusione",
+      "Comunione",
+      "Commistione"
+    ],
+    "correct": "Comunione"
+  },
+  {
+    "id": "52639",
+    "question": "D 22 – In quale tipo di società è prevista la responsabilità illimitata e solidale dei soci per le obbligazioni assunte dalla stessa?",
+    "answers": [
+      "Società a responsabilità limitata",
+      "Società per Azioni",
+      "Società in nome collettivo"
+    ],
+    "correct": "Società in nome collettivo"
+  },
+  {
+    "id": "52640",
+    "question": "D 23 – In una società in accomandita semplice quale socio è responsabile illimitatamente per le obbligazioni assunte dalla società?",
+    "answers": [
+      "Socio Accomandante",
+      "Tutti i soci",
+      "Socio Accomandatario"
+    ],
+    "correct": "Socio Accomandatario"
+  },
+  {
+    "id": "52641",
+    "question": "D 24 – “ Responsabilità illimitata” di un socio significa che questo risponde per le obbligazioni assunte dalla società",
+    "answers": [
+      "Con tutti i suoi beni presenti e futuri",
+      "Con tutti i suoi beni conferiti alla società",
+      "Con tutti i beni conferiti da ogni socio alla società"
+    ],
+    "correct": "Con tutti i suoi beni presenti e futuri"
+  },
+  {
+    "id": "52642",
+    "question": "D 25 – In una società in nome collettivo affinché un socio possa cedere la propria quota occorre :",
+    "answers": [
+      "Che siano trascorsi non meno di cinque anni dalla costituzione della società",
+      "Di dare formale comunicazione agli altri soci",
+      "Del consenso di tutti gli altri soci"
+    ],
+    "correct": "Del consenso di tutti gli altri soci"
+  },
+  {
+    "id": "52643",
+    "question": "D 26 - In una società in nome collettivo in caso di decesso di uno dei soci",
+    "answers": [
+      "La quota del socio deceduto è trasferita di diritto ai suoi eredi",
+      "Occorre il consenso di tutti gli altri soci per trasferire la quota del socio deceduto ai suoi eredi",
+      "Si trasferisce la quota del socio deceduto ai suoi eredi solo se questi sono tutti concordi e ne facciano richiesta formale"
+    ],
+    "correct":"Occorre il consenso di tutti gli altri soci per trasferire la quota del socio deceduto ai suoi eredi"
+  },
+  {
+    "id": "52644",
+    "question": "D 27 – In quali società essere socio non comporta automaticamente il diritto a poter amministrare la stessa?",
+    "answers": [
+      "In tutti i tipi di società",
+      "Nelle società di capitali",
+      "Nelle società di persone"
+    ],
+    "correct": "Nelle società di capitali"
+  },
+  {
+    "id": "52645",
+    "question": "D 28 – In una società di capitali chi ha il potere di nominare gli Amministratori?",
+    "answers": [
+      "Il Notaio",
+      "L'Assemblea dei Soci",
+      "I componenti il Collegio Sindacale"
+    ],
+    "correct": "L'Assemblea dei Soci"
+  },
+  {
+    "id": "52646",
+    "question": "D 29 – Quale scopo persegue il socio di una società a scopo di lucro?",
+    "answers": [
+      "La possibilità di abbattimento dei costi di gestione",
+      "La possibilità di fruire di servizi a costo minore",
+      "La partecipazione agli utili conseguiti con l'attività sociale"
+    ],
+    "correct": "La partecipazione agli utili conseguiti con l'attività sociale"
+  },
+  {
+    "id": "52647",
+    "question": "D 30 – Quali registri obbligatori prevede il regime di contabilità semplificata?",
+    "answers": [
+      "Registri IVA",
+      "Libro Giornale",
+      "Libro Cassa"
+    ],
+    "correct": "Registri IVA"
+  },
+  {
+    "id": "52648",
+    "question": "D 31 – Il regime a contabilità semplificata su quale registro prevede che debbano essere annotate le fatture di acquisto?",
+    "answers": [
+      "Libro degli Inventari",
+      "Registro dei Beni Ammortizzabili",
+      "Registro degli Acquisti"
+    ],
+    "correct": "Registro degli Acquisti"
+  },
+  {
+    "id": "52649",
+    "question": "D 32 – Il regime a contabilità semplificata, su quale registro prevede che debbano essere annotati gli incassi giornalieri?",
+    "answers": [
+      "Registro dei Corrispettivi",
+      "Libro Cassa",
+      "Libro Giornale"
+    ],
+    "correct": "Registro dei Corrispettivi"
+  },
+  {
+    "id": "52650",
+    "question": "D 33 – L'obbligo di tenuta del Libro Giornale è per le imprese",
+    "answers": [
+      "In regime di contabilità semplificata",
+      "Tutte",
+      "In regime di contabilità ordinaria"
+    ],
+    "correct": "In regime di contabilità ordinaria"
+  },
+  {
+    "id": "52651",
+    "question": "D 34 – L'obbligo di tenuta del libro inventari è per le imprese",
+    "answers": [
+      "In regime di contabilità ordinaria",
+      "In regime di contabilità semplificata",
+      "Tutte"
+    ],
+    "correct": "In regime di contabilità ordinaria"
+  },
+  {
+    "id": "52652",
+    "question": "D 35 – L'obbligo di redazione annuale del bilancio è per le imprese",
+    "answers": [
+      "Tutte",
+      "In regime di contabilità semplificata",
+      "In regime di contabilità ordinaria"
+    ],
+    "correct": "In regime di contabilità ordinaria"
+  },
+  {
+    "id": "52653",
+    "question": "D 36 - Quando avviene la stesura dello stato patrimoniale e del conto economico?",
+    "answers": [
+      "All'inizio di ogni esercizio",
+      "Ogni cinque anni",
+      "Nel redigere il bilancio annuale di esercizio"
+    ],
+    "correct": "Nel redigere il bilancio annuale di esercizio"
+  },
+  {
+    "id": "52654",
+    "question": "D 37 – Dove debbono essere annotati cronologicamente gli incassi, i pagamenti, i movimenti bancari?",
+    "answers": [
+      "Libro Cassa",
+      "Libro Giornale",
+      "Libro Inventari"
+    ],
+    "correct": "Libro Giornale"
+  },
+  {
+    "id": "52655",
+    "question": "D 38 – Secondo le norme del Codice Civile, per quanto tempo dalla data dell'ultima registrazione in esso riportata deve essere conservato il Libro Giornale?",
+    "answers": [
+      "Un anno",
+      "Dieci anni",
+      "Cinque anni"
+    ],
+    "correct": "Dieci anni"
+  },
+  {
+    "id": "52656",
+    "question": "D 39 – In quale registro debbono essere annotate tutte le passività e tutte le attività dell'impresa?",
+    "answers": [
+      "Libro Inventari",
+      "Registro Beni Ammortizzabili",
+      "Libro Cassa"
+    ],
+    "correct": "Libro Inventari"
+  },
+  {
+    "id": "52657",
+    "question": "D 40 – Oltre che le norme fiscali, chi prescrive all'impresa l'obbligo di redigere l'inventario?",
+    "answers": [
+      "La Camera di Commercio",
+      "Il Codice Penale",
+      "Il Codice Civile"
+    ],
+    "correct": "Il Codice Civile"
+  },
+  {
+    "id": "52658",
+    "question": "D 41 - Che cos'è il conferimento?",
+    "answers": [
+      "La realizzazione di un profitto da parte dell'attività sociale",
+      "L'organizzazione dinamica dell'attività economica dell'impresa",
+      "La prestazione con cui il socio adempie all'obbligazione di apporto fatta all'atto della stipula del contratto"
+    ],
+    "correct": "La prestazione con cui il socio adempie all'obbligazione di apporto fatta all'atto della stipula del contratto"
+  },
+  {
+    "id": "52659",
+    "question": "D 42 - La Società in nome collettivo è una società:",
+    "answers": [
+      "Di persone",
+      "Di capitali",
+      "A scopo mutualistico"
+    ],
+    "correct": "Di persone"
+  },
+  {
+    "id": "52660",
+    "question": "D 43 – Nelle società in nome collettivo, delle obbligazioni sociali rispondono",
+    "answers": [
+      "Solo la società con il suo capitale",
+      "I soci con il capitale versato",
+      "Solidamente ed illimitatamente tutti i soci con tutti i loro beni"
+    ],
+    "correct": "Solidamente ed illimitatamente tutti i soci con tutti i loro beni"
+  },
+  {
+    "id": "52661",
+    "question": "D 44 – Come avviene il trasferimento delle quote nelle società di capitali?",
+    "answers": [
+      "Con l'autorizzazione dell'Amministratore",
+      "Avviene a seguito di semplice volontà del cedente e del cessionario",
+      "Con il consenso di tutti i soci"
+    ],
+    "correct": "Avviene a seguito di semplice volontà del cedente e del cessionario"
+  },
+  {
+    "id": "52662",
+    "question": "D 45 - Che cos'è la società mutualistica?",
+    "answers": [
+      "È una società che ha lo scopo di fornire beni e servizi a condizioni più vantaggiose o procurare lavoro ai soci",
+      "È una società che ha lo scopo di accendere mutui",
+      "È una società che ha lo scopo di dividere gli utili"
+    ],
+    "correct": "È una società che ha lo scopo di fornire beni e servizi a condizioni più vantaggiose o procurare lavoro ai soci"
+  },
+  {
+    "id": "52663",
+    "question": "D 46 – Quali sono per legge definiti servizi pubblici non di linea?",
+    "answers": [
+      "Quelli svolti con autobus extraurbani",
+      "Quelli svolti da autovetture adibite al servizio di taxi e n.c.c.",
+      "Quelli svolti con autovetture adibite al servizio di enti pubblici"
+    ],
+    "correct": "Quelli svolti da autovetture adibite al servizio di taxi e n.c.c."
+  },
+  {
+    "id": "52664",
+    "question": "D 47 – Alle esigenze di chi si rivolge il servizio taxi?",
+    "answers": [
+      "Di gruppi organizzati che prenotano il servizio per lunghi spostamenti",
+      "Dell'utenza che chiama direttamente il tassista",
+      "Individuali e di piccoli gruppi"
+    ],
+    "correct": "Individuali e di piccoli gruppi"
+  },
+  {
+    "id": "52665",
+    "question": "D 48 – Il Noleggio Con Conducente",
+    "answers": [
+      "Aderisce a tutte le richieste di servizio, con il solo obbligo del rispetto del turno di servizio",
+      "Sosta in attesa della richiesta di servizio, nelle piazzole di sosta dei taxi",
+      "Si rivolge ad utenza specifica, sostando nella propria rimessa"
+    ],
+    "correct": "Si rivolge ad utenza specifica, sostando nella propria rimessa"
+  },
+  {
+    "id": "52666",
+    "question": "D 49 – In quale di questi casi il titolare di licenza taxi può farsi sostituire nella guida del taxi?",
+    "answers": [
+      "Per un periodo di ferie di almeno 30 giorni",
+      "Per un periodo di ferie non superiore a trenta giorni",
+      "Quando si trovi nella necessità di dover svolgere altra attività lavorativa"
+    ],
+    "correct": "Per un periodo di ferie non superiore a trenta giorni"
+  },
+  {
+    "id": "52667",
+    "question": "D 50 – In una Società di Capitali l'importanza del singolo socio è determinata:",
+    "answers": [
+      "Dalle capacità personali del singolo",
+      "I soci godono sempre di pari importanza",
+      "Dalla quota di capitale sottoscritta"
+    ],
+    "correct": "Dalla quota di capitale sottoscritta"
+  },
+  {
+    "id": "52668",
+    "question": "D 51 – Il conducente è presunto responsabile nei confronti dei trasportati in caso di incidente?",
+    "answers": [
+      "Solo se è dimostrata la sua colpa",
+      "Sempre",
+      "Mai"
+    ],
+    "correct": "Sempre"
+  },
+  {
+    "id": "52669",
+    "question": "D 52 – Quante volte deve comparire, nella cambiale, l'importo della somma da pagare?",
+    "answers": [
+      "Tre",
+      "Due",
+      "Una"
+    ],
+    "correct": "Due"
+  },
+  {
+    "id": "52670",
+    "question": "D 53 – Con che termine giuridico si definisce la persona che riceve da un'altra l'ordine di pagare una data somma di denaro ad una terza",
+    "answers": [
+      "Intermediario",
+      "Trattario",
+      "Traente"
+    ],
+    "correct": "Trattario"
+  },
+  {
+    "id": "52671",
+    "question": "D 54 - Cosa sono i titoli di credito all'ordine?",
+    "answers": [
+      "Titoli intestati ad una determinata persona, il cui trasferimento avviene mediante l'annotazione del nome dell'acquirente sul titolo e nel registro dell'emittente",
+      "Titoli intestati ad una determinata persona, in cui l'intestazione risulta unicamente dal titolo, e l'emittente non è tenuto a registrarlo",
+      "Titoli non intestati ad alcun titolare"
+    ],
+    "correct": "Titoli intestati ad una determinata persona, in cui l'intestazione risulta unicamente dal titolo, e l'emittente non è tenuto a registrarlo"
+  },
+  {
+    "id": "52672",
+    "question": "D 55 - Come avviene il trasferimento dei titoli al portatore?",
+    "answers": [
+      "Mediante la consegna del semplice titolo",
+      "Mediante la consegna del titolo accompagnato da girata",
+      "Mediante consegna del titolo alla persona intestataria"
+    ],
+    "correct": "Mediante la consegna del semplice titolo"
+  },
+  {
+    "id": "52673",
+    "question": "D 56 - Che cos'è una cambiale?",
+    "answers": [
+      "È un titolo che attribuisce al possessore legittimo il diritto incondizionato di pretendere il pagamento di una somma determinata alla",
+      "È un titolo che attribuisce al possessore legittimo il diritto condizionato di pretendere il pagamento di una somma determinata alla scadenza indicata",
+      "È un titolo che attribuisce al possessore legittimo il pagamento di una somma determinata quando il debitore avrà la possibilità"
+    ],
+    "correct": "È un titolo che attribuisce al possessore legittimo il diritto incondizionato di pretendere il pagamento di una somma determinata alla"
+  },
+  {
+    "id": "52674",
+    "question": "D 57 - Che cos'è l'avallo?",
+    "answers": [
+      "Una firma di garanzia",
+      "Il possesso di una cambiale",
+      "L'intestatario di una cambiale"
+    ],
+    "correct": "Una firma di garanzia"
+  },
+  {
+    "id": "52675",
+    "question": "D 58 – Che cos'è l'assegno bancario?",
+    "answers": [
+      "È uno strumento di pagamento a servizio di chi ha fondi disponibili presso la banca",
+      "È un assegno che rilascia la posta",
+      "È una promessa incondizionata di pagamento"
+    ],
+    "correct": "È uno strumento di pagamento a servizio di chi ha fondi disponibili presso la banca"
+  },
+  {
+    "id": "52676",
+    "question": "D 59 – Chi può emettere l'assegno bancario?",
+    "answers": [
+      "Il titolare di un conto corrente",
+      "La banca",
+      "La posta"
+    ],
+    "correct": "Il titolare di un conto corrente"
+  },
+  {
+    "id": "52677",
+    "question": "D 60 – Che cos'è l'assegno circolare?",
+    "answers": [
+      "È la promessa incondizionata di un debitore di pagare a vista una somma determinata",
+      "È un assegno che emette il correntista",
+      "È un assegno che emette un Istituto di Credito"
+    ],
+    "correct": "È un assegno che emette un Istituto di Credito"
+  },
+  {
+    "id": "52678",
+    "question": "D 61 – I tributi che il cittadino deve versare allo stato in proporzione al proprio reddito, che cosa sono?",
+    "answers": [
+      "Imposte dirette (IRPEF)",
+      "Tasse per il rinnovo delle autorizzazioni amministrative",
+      "Tasse per le imposte di bollo"
+    ],
+    "correct": "Imposte dirette (IRPEF)"
+  },
+  {
+    "id": "52679",
+    "question": "D 62 – La dichiarazione annuale dei redditi cosa riguarda?",
+    "answers": [
+      "La denuncia dei redditi conseguiti da ciascun contribuente nell'anno precedente",
+      "Il valore complessivo delle merci nell'anno precedente",
+      "Il volume delle vendite effettuate nell'anno precedente"
+    ],
+    "correct": "La denuncia dei redditi conseguiti da ciascun contribuente nell'anno precedente"
+  },
+  {
+    "id": "52680",
+    "question": "D 63 – l'imposta sul valore aggiunto (IVA), che viene applicata su tutte le merci, dalla fase della produzione a quella della vendita al pubblico, da chi viene effettivamente sopportata?",
+    "answers": [
+      "Dal commerciante",
+      "Dal fabbricante",
+      "Dal consumatore finale"
+    ],
+    "correct": "Dal consumatore finale"
+  },
+  {
+    "id": "52681",
+    "question": "D 64 – L'IRPEF (Imposta sul Reddito delle Persone Fisiche) è un imposta:",
+    "answers": [
+      "Diretta",
+      "Indiretta",
+      "Locale"
+    ],
+    "correct": "Diretta"
+  },
+  {
+    "id": "52682",
+    "question": "D 65 – Con i termini tassa e imposta, s'intende la stessa cosa?",
+    "answers": [
+      "Si",
+      "No",
+      "Si, se riferite ai commercianti"
+    ],
+    "correct": "No"
+  },
+  {
+    "id": "52683",
+    "question": "D 66 - Che cosa vuol dire I.V.A.?",
+    "answers": [
+      "Imposta Versamento Acquisti",
+      "Imposta Volume Affari",
+      "Imposta Valore Aggiunto"
+    ],
+    "correct": "Imposta Valore Aggiunto"
+  },
+  {
+    "id": "52684",
+    "question": "D 67 – Che cos'è l'imposta sul valore aggiunto?",
+    "answers": [
+      "Un imposta di bollo",
+      "Una tassa di concessione governativa",
+      "Un imposta indiretta"
+    ],
+    "correct": "Un imposta indiretta"
+  },
+  {
+    "id": "52685",
+    "question": "D 68 – Le aliquote dell'IVA variano con l'aumentare del giro d'affari?",
+    "answers": [
+      "Si",
+      "No",
+      "Solo per i generi di prima necessità"
+    ],
+    "correct": "No"
+  },
+  {
+    "id": "52686",
+    "question": "D 69 – Contro gli accertamenti dell'Ufficio Imposte, ritenuti ingiusti, presso quale organo, il contribuente deve presentare ricorso?",
+    "answers": [
+      "Al Tribunale Amministrativo Regionale (TAR)",
+      "Alla Prefettura",
+      "Alla Commissione Tributaria Provinciale"
+    ],
+    "correct": "Alla Commissione Tributaria Provinciale"
+  },
+  {
+    "id": "52687",
+    "question": "D 70 – Entro quale termine si deve effettuare la registrazione dell'incasso giornaliero sul Registro dei Corrispettivi?",
+    "answers": [
+      "Entro il giorno successivo, non festivo, alla vendita",
+      "Entro cinque giorni dalla vendita",
+      "Entro quindici giorni dalla vendita"
+    ],
+    "correct": "Entro il giorno successivo, non festivo, alla vendita"
+  },
+  {
+    "id": "52688",
+    "question": "D 71 - Che cos'è il numero di Codice Fiscale?",
+    "answers": [
+      "Il numero di iscrizione al Registro delle Imprese",
+      "Il numero assegnato a ciascun contribuente per l'Anagrafe Tributaria",
+      "Il numero di iscrizione al Registro degli Esercenti il Commercio"
+    ],
+    "correct": "Il numero assegnato a ciascun contribuente per l'Anagrafe Tributaria"
+  },
+  {
+    "id": "52689",
+    "question": "D 72 – In quali casi si applica l'IVA?",
+    "answers": [
+      "Sulle cessioni di beni o prestazioni di servizio",
+      "Sui redditi di ciascuna persona fisica",
+      "Sui redditi da immobili"
+    ],
+    "correct": "Sulle cessioni di beni o prestazioni di servizio"
+  },
+  {
+    "id": "52690",
+    "question": "D 73 – Quale di queste imposte è diretta?",
+    "answers": [
+      "Imposta Valore Aggiunto (IVA)",
+      "Imposta di bollo",
+      "Imposta sul Reddito delle Persone Fisiche (IRPEF)"
+    ],
+    "correct": "Imposta sul Reddito delle Persone Fisiche (IRPEF)"
+  },
+  {
+    "id": "52691",
+    "question": "D 74 – Quando lo stato o un ente presta un servizio ad un cittadino il tributo che questi è tenuto a pagare come corrispettivo del servizio stesso, come si chiama?",
+    "answers": [
+      "Imposta Indiretta",
+      "Imposta Diretta",
+      "Tassa"
+    ],
+    "correct": "Tassa"
+  },
+  {
+    "id": "52692",
+    "question": "D 75 – Quando un Imposta si dice Diretta?",
+    "answers": [
+      "Quando è commisurata direttamente al reddito",
+      "Quando colpisce il passaggio di proprietà dei beni",
+      "Quando colpisce lo scambio dei beni"
+    ],
+    "correct": "Quando è commisurata direttamente al reddito"
+  },
+  {
+    "id": "52693",
+    "question": "D 76 – Quale di queste imposte è progressiva?",
+    "answers": [
+      "IRPEF",
+      "IVA",
+      "Imposta di bollo"
+    ],
+    "correct": "IRPEF"
+  },
+  {
+    "id": "52694",
+    "question": "D 77 – Nella dichiarazione annuale, quali redditi vanno indicati?",
+    "answers": [
+      "Quelli dell'anno precedente",
+      "Quelli dell'anno in corso",
+      "Quelli presumibili dell'anno successivo"
+    ],
+    "correct": "Quelli dell'anno precedente"
+  },
+  {
+    "id": "52695",
+    "question": "D 78 – L'IRPEF che un cittadino è tenuto a pagare ogni anno, da quale documento si evince'?",
+    "answers": [
+      "Dal Registro delle Fatture Acquisto",
+      "Dal Registro dei Corrispettivi",
+      "Dalla Dichiarazione dei Redditi"
+    ],
+    "correct": "Dalla Dichiarazione dei Redditi"
+  },
+  {
+    "id": "52696",
+    "question": "D 79 – Quando va presentata la dichiarazione dei redditi?",
+    "answers": [
+      "Ogni tre mesi",
+      "Ogni sei mesi",
+      "Ogni anno"
+    ],
+    "correct": "Ogni anno"
+  },
+  {
+    "id": "52697",
+    "question": "D 80 – Come è formato il numero di Codice Fiscale di una persona fisica?",
+    "answers": [
+      "Solamente da numeri",
+      "Solamente da lettere dell'alfabeto",
+      "Da lettere dell'alfabeto e numeri"
+    ],
+    "correct": "Da lettere dell'alfabeto e numeri"
+  },
+  {
+    "id": "52698",
+    "question": "D 81 – Dove si può acquistare una cambiale?",
+    "answers": [
+      "Presso una rivendita di Valori Bollati",
+      "Presso l'Ufficio Imposte Indirette",
+      "Presso la Questura"
+    ],
+    "correct": "Presso una rivendita di Valori Bollati"
+  },
+  {
+    "id": "52699",
+    "question": "D 82 - Che cos'è l'IRES?",
+    "answers": [
+      "Una Tassa",
+      "Un'Imposta Diretta",
+      "Un'Imposta Indiretta"
+    ],
+    "correct": "Una Tassa"
+  },
+  {
+    "id": "52700",
+    "question": "D 83 – L'IRPEF (Imposta sul Reddito delle Persone Fisiche) è un'Imposta:",
+    "answers": [
+      "Diretta",
+      "Indiretta",
+      "Locale"
+    ],
+    "correct": "Diretta"
+  },
+  {
+    "id": "52701",
+    "question": "D 84 – Si paga l'imposta di bollo sulle Cambiali?",
+    "answers": [
+      "No",
+      "A seconda della scadenza",
+      "Si"
+    ],
+    "correct": "Si"
+  },
+  {
+    "id": "52702",
+    "question": "D 85 – Sul Registro dei Corrispettivi va annotato:",
+    "answers": [
+      "L'ammontare del Corrispettivo comprensivo dell'IVA",
+      "L'ammontare del Corrispettivo al netto dell'IVA",
+      "Il solo ammontare dell'IVA a debito sull'operazione"
+    ],
+    "correct": "L'ammontare del Corrispettivo comprensivo dell'IVA"
+  },
+  {
+    "id": "52703",
+    "question": "D 86 – Per scorporo dell'IVA s'intende:",
+    "answers": [
+      "La suddivisione dei corrispettivi fra le varie aliquote",
+      "L'annotazione sui registri IVA",
+      "La separazione dell'ammontare dell'IVA dall'importo dell'intera operazione"
+    ],
+    "correct": "La separazione dell'ammontare dell'IVA dall'importo dell'intera operazione"
+  },
+  {
+    "id": "52704",
+    "question": "D 87 – Che cosa si deve annotare sul Registro dei Corrispettivi?",
+    "answers": [
+      "Le merci giacenti nel magazzino",
+      "Solamente gli incassi",
+      "Solo l'importo dell'IVA"
+    ],
+    "correct": "Solamente gli incassi"
+  },
+  {
+    "id": "52705",
+    "question": "D 88 – Che cosa sono le Tasse e le Imposte?",
+    "answers": [
+      "Tributi",
+      "Contributi",
+      "Previdenze"
+    ],
+    "correct": "Tributi"
+  },
+  {
+    "id": "52706",
+    "question": "D 89 – Che cos'è l'ICI?",
+    "answers": [
+      "Imposta Comunale di Incremento",
+      "Imposta Comunale sugli Immobili",
+      "Imposta Camerale di Iscrizione"
+    ],
+    "correct": "Imposta Comunale sugli Immobili"
+  },
+  {
+    "id": "52707",
+    "question": "D 90 – Il Codice Fiscale ed il numero di Partita IVA delle persone Fisiche:",
+    "answers": [
+      "Coincidono sempre",
+      "Non coincidono mai",
+      "Possono coincidere a richiesta"
+    ],
+    "correct": "Non coincidono mai"
+  },
+  {
+    "id": "52708",
+    "question": "D 91 - Le Imprese in contabilità semplificata:",
+    "answers": [
+      "Determinano in via forfetaria il risultato di esercizio",
+      "Sono esonerati dall'obbligo di redazione del bilancio",
+      "Sono esonerati dalla tenuta dei libri IVA"
+    ],
+    "correct":"Sono esonerati dall'obbligo di redazione del bilancio"
+  },
+  {
+    "id": "52709",
+    "question": "D 92 - L'IRPEF è:",
+    "answers": [
+      "Un'Imposta Personale",
+      "Un'Imposta Reale sul reddito",
+      "Una Tassa"
+    ],
+    "correct": "Un'Imposta Personale"
+  },
+  {
+    "id": "52710",
+    "question": "D 93 – Le Imposte Dirette sono quelle:",
+    "answers": [
+      "Che colpiscono direttamente la Cessione dei Beni",
+      "Che colpiscono il Patrimonio e il Reddito",
+      "Che vengono calcolate direttamente dallo Stato"
+    ],
+    "correct": "Che colpiscono il Patrimonio e il Reddito"
+  },
+  {
+    "id": "52711",
+    "question": "D 94 – Il Codice Fiscale delle Persone Fisiche è formato:",
+    "answers": [
+      "Da 11 caratteri numerici di cui l'ultimo di controllo",
+      "Da 16 caratteri numerici di cui l'ultimo di controllo",
+      "Da 16 caratteri alfanumerici di cui l'ultimo di controllo"
+    ],
+    "correct": "Da 16 caratteri alfanumerici di cui l'ultimo di controllo"
+  },
+  {
+    "id": "52712",
+    "question": "D 95 – Le Società di persone sono:",
+    "answers": [
+      "Società in nome Collettivo e Società in Accomandita per Azioni",
+      "Società in nome Collettivo e Società a Responsabilità Limitata",
+      "Società in nome Collettivo e Società in Accomandita Semplice"
+    ],
+    "correct": "Società in nome Collettivo e Società in Accomandita Semplice"
+  },
+  {
+    "id": "52713",
+    "question": "D 96 – La dichiarazione di inizio attività ai fini IVA, va presentata:",
+    "answers": [
+      "Al Comune",
+      "All'agenzia delle entrate",
+      "Alla Camera di Commercio"
+    ],
+    "correct": "All'agenzia delle entrate"
+  },
+  {
+    "id": "52714",
+    "question": "D 97 – Quali sono i Libri da tenere per i dipendenti?",
+    "answers": [
+      "Paga, Matricola, Infortuni",
+      "Entrate, Uscite",
+      "Carico e Scarico"
+    ],
+    "correct": "Paga, Matricola, Infortuni"
+  },
+  {
+    "id": "52715",
+    "question": "D 98 – Cosa deve essere consegnato al lavoratore quando gli viene corrisposta la retribuzione?",
+    "answers": [
+      "La busta o il prospetto paga",
+      "Il libretto del lavoro",
+      "Il libretto sanitario"
+    ],
+    "correct": "La busta o il prospetto paga"
+  },
+  {
+    "id": "52716",
+    "question": "D 99 – Gli elementi ed i dati riportati sulla busta paga devono corrispondere a quelli riportati sul:",
+    "answers": [
+      "Libro dei Corrispettivi",
+      "Libro Paga",
+      "Registro degli Infortuni"
+    ],
+    "correct": "Libro Paga"
+  },
+  {
+    "id": "52717",
+    "question": "D 100 – Può il lavoratore dipendente rinunciare alle ferie?",
+    "answers": [
+      "No, perché sono irrinunciabili",
+      "Si",
+      "Si, solo se il lavoratore è maggiorenne"
+    ],
+    "correct": "No, perché sono irrinunciabili"
+  },
+  {
+    "id": "52718",
+    "question": "D 101 - Che cos'è lo Statuto dei Lavoratori?",
+    "answers": [
+      "È una legge che regola diritti e doveri dei lavoratori e dei datori di lavoro",
+      "È un contratto contenente i lavori da effettuare",
+      "È un'organizzazione sindacale di categoria"
+    ],
+    "correct": "È una legge che regola diritti e doveri dei lavoratori e dei datori di lavoro"
+  },
+  {
+    "id": "52719",
+    "question": "D 102 – Quali prestazioni eroga l'Istituto Nazionale della Previdenza Sociale?",
+    "answers": [
+      "L'assistenza contro gli Infortuni sul Lavoro",
+      "La Pensione",
+      "L'Indennità di Licenziamento"
+    ],
+    "correct": "La Pensione"
+  },
+  {
+    "id": "52720",
+    "question": "D 103 – Quali dati sono riportati sul Libro degli Infortuni?",
+    "answers": [
+      "Il nome del dipendente, data e cause dell'infortunio superiore a 3 giorni",
+      "L'indennità spettante al dipendente per l'infortunio",
+      "L'ammontare delle spese di ricovero ospedaliero del dipendente"
+    ],
+    "correct": "Il nome del dipendente, data e cause dell'infortunio superiore a 3 giorni"
+  },
+  {
+    "id": "52721",
+    "question": "D 104 – Può il lavoratore, d'accordo con il datore di lavoro, rinunciare alle ferie?",
+    "answers": [
+      "No",
+      "Si",
+      "Si, ma con un adeguato pagamento"
+    ],
+    "correct": "No"
+  },
+  {
+    "id": "52722",
+    "question": "D 105 – Che cosa viene registrato sul Libro Matricola?",
+    "answers": [
+      "Le ore di lavoro ordinario e straordinario effettuate dal dipendente",
+      "Il luogo e data di nascita, la data di assunzione e la qualifica del dipendente",
+      "Le vaccinazioni, le trasferte, ecc."
+    ],
+    "correct": "Il luogo e data di nascita, la data di assunzione e la qualifica del dipendente"
+  },
+  {
+    "id": "52723",
+    "question": "D 106 - Che cos'è il Contratto Collettivo di lavoro?",
+    "answers": [
+      "Un Contratto di Affitto",
+      "Un Contratto che detta le norme generali che disciplinano i rapporti tra lavoratori e datori di lavoro",
+      "Un Contratto di compravendita di Esercizi Commerciali"
+    ],
+    "correct": "Un Contratto che detta le norme generali che disciplinano i rapporti tra lavoratori e datori di lavoro"
+  },
+  {
+    "id": "52724",
+    "question": "D 107 – Il licenziamento deve essere comunicato al dipendente?",
+    "answers": [
+      "Si, per iscritto",
+      "Si, verbalmente",
+      "No"
+    ],
+    "correct": "Si, per iscritto"
+  },
+  {
+    "id": "52725",
+    "question": "D 108 – Quali sono i termini entro i quali una lavoratrice in stato di gravidanza o puerperio, non può essere licenziata?",
+    "answers": [
+      "Dal giorno del parto al 50° giorno dopo",
+      "Dall'inizio della gestazione ad un anno di età del bambino",
+      "Da un mese prima a tre mesi dopo il parto"
+    ],
+    "correct": "Dall'inizio della gestazione ad un anno di età del bambino"
+  },
+  {
+    "id": "52726",
+    "question": "D 109 – Quando si assume un dipendente, chi deve inoltrare presso l'INPS la domanda per l'apertura della posizione assicurativa?",
+    "answers": [
+      "Il lavoratore",
+      "il centro per l'impiego",
+      "Il datore di lavoro"
+    ],
+    "correct": "Il datore di lavoro"
+  },
+  {
+    "id": "52727",
+    "question": "D 110 – Le ore di lavoro ordinarie di un dipendente, su quale Libro vanno registrate?",
+    "answers": [
+      "Sul Libro Matricola",
+      "Sul Libro Paga",
+      "Sul Libretto del Lavoro"
+    ],
+    "correct": "Sul Libro Paga"
+  },
+  {
+    "id": "52728",
+    "question": "D 111 – Il datore di lavoro deve versare i contributi sociali obbligatori per i propri dipendenti?",
+    "answers": [
+      "Si, solo nel caso che il dipendente ne faccia richiesta",
+      "Si, in quanto è obbligato per legge",
+      "No, se il lavoratore è già pensionato"
+    ],
+    "correct": "Si, in quanto è obbligato per legge"
+  },
+  {
+    "id": "52729",
+    "question": "D 112 – Ogni quanto tempo il datore di lavoro deve consegnare la busta paga o il prospetto paga ai propri dipendenti?",
+    "answers": [
+      "Ogni anno",
+      "Ogni sei mesi",
+      "Ogni mese, e comunque, quando viene corrisposta la retribuzione"
+    ],
+    "correct": "Ogni mese, e comunque, quando viene corrisposta la retribuzione"
+  },
+  {
+    "id": "52730",
+    "question": "D 113 – Su quale libro il datore di lavoro deve registrare la retribuzione dei propri dipendenti'?",
+    "answers": [
+      "Sul Registro Infortuni",
+      "Sul Libro Paga",
+      "Sul Libro Matricola"
+    ],
+    "correct": "Sul Libro Paga"
+  },
+  {
+    "id": "52731",
+    "question": "D 114 – Quando è consentito dare ai propri dipendenti una parte della retribuzione fuori busta, da non denunciare agli Istituti Previdenziali?",
+    "answers": [
+      "Mai, perché vietato dalla legge",
+      "Quando la paga netta è superiore ad un milione",
+      "Quando i dipendenti hanno superato il periodo di prova"
+    ],
+    "correct": "Mai, perché vietato dalla legge"
+  },
+  {
+    "id": "52732",
+    "question": "D 115 - Il trattamento di fine rapporto compete?",
+    "answers": [
+      "A tutti i lavoratori in ogni caso di cessazione del rapporto di lavoro",
+      "Soltanto ai lavoratori che non terminano il periodo di prova",
+      "Soltanto ai lavoratori con anzianità di servizio superiore a due anni"
+    ],
+    "correct": "A tutti i lavoratori in ogni caso di cessazione del rapporto di lavoro"
+  },
+  {
+    "id": "52733",
+    "question": "D 116 – In quali casi opera il divieto di licenziamento?",
+    "answers": [
+      "Durante la maternità o la malattia",
+      "Nel periodo di prova",
+      "Durante l'apprendistato"
+    ],
+    "correct": "Durante la maternità o la malattia"
+  },
+  {
+    "id": "52734",
+    "question": "D 117 – l'Assicurazione contro gli Infortuni sul Lavoro, gestita dall'INAIL, può essere sostituita da una polizza di assicurazione privata?",
+    "answers": [
+      "No, l'assicurazione INAIL è obbligatoria",
+      "Si",
+      "Solo con il consenso del dipendente"
+    ],
+    "correct": "No, l'assicurazione INAIL è obbligatoria"
+  },
+  {
+    "id": "52735",
+    "question": "D 118 – Il contratto in genere è regolato:",
+    "answers": [
+      "Dal Codice Civile",
+      "Dalla Regione",
+      "Dalle Camere di Commercio"
+    ],
+    "correct": "Dal Codice Civile"
+  },
+  {
+    "id": "52736",
+    "question": "D 119 – Il contratto ha forza di legge fra le parti?",
+    "answers": [
+      "Mai, in nessun caso",
+      "Solo in particolari occasioni",
+      "Si"
+    ],
+    "correct": "Si"
+  },
+  {
+    "id": "52737",
+    "question": "D 120 – Quando il contratto è nullo?",
+    "answers": [
+      "Quando mancano i requisiti secondari",
+      "Quando manca uno dei requisiti essenziali",
+      "Quando non è scritto in un buon Italiano"
+    ],
+    "correct": "Quando manca uno dei requisiti essenziali"
+  },
+  {
+    "id": "52738",
+    "question": "D 121 – Nel Contratto di Trasporto di Persone:",
+    "answers": [
+      "Il Vettore risponde solo al 50% dei sinistri che colpiscono il viaggiatore durante il viaggio",
+      "Il Vettore non risponde di nessun sinistro che colpisca il viaggiatore durante il viaggio",
+      "Il Vettore risponde dei sinistri che colpiscano il viaggiatore durante il viaggio se non prova di aver adottato tutte le misure atte ad impedire il danno"
+    ],
+    "correct": "Il Vettore risponde dei sinistri che colpiscano il viaggiatore durante il viaggio se non prova di aver adottato tutte le misure atte ad impedire il danno"
+  },
+  {
+    "id": "52739",
+    "question": "D 122 – Nel Contratto di Trasporto di Persone:",
+    "answers": [
+      "Le clausole che limitano la responsabilità del Vettore per i sinistri che colpiscano il viaggiatore sono annullabili a richiesta di parte",
+      "Le clausole che limitano la responsabilità del Vettore per i sinistri che colpiscano il viaggiatore sono nulle",
+      "Le clausole che limitano la responsabilità del Vettore per i sinistri che colpiscono il viaggiatore vengono decise dal Giudice"
+    ],
+    "correct": "Le clausole che limitano la responsabilità del Vettore per i sinistri che colpiscono il viaggiatore sono nulle"
+  },
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": "52740",
+    "question": "E 01 - Il comune di Pontecorvo è limitrofo a:",
+    "answers": [
+      "Ceccano",
+      "Arpino",
+      "Cassino"
+    ],
+    "correct": "Cassino"
+  },
+  {
+    "id": "52741",
+    "question": "E 02 - Frosinone ha una base militare:",
+    "answers": [
+      "Navale",
+      "Aeronautica",
+      "Esercito"
+    ],
+    "correct": "Aeronautica"
+  },
+  {
+    "id": "52742",
+    "question": "E 03 – La provincia di Frosinone confina:",
+    "answers": [
+      "a nord con la Provincia di Roma, a est con la Provincia di Caserta, a sud-est con la Provincia di Isernia, a sud con la Provincia di L'Aquila e a ovest con la Provincia di Latina.",
+      "a nord con la Provincia di L'Aquila, a est con la Provincia di Isernia, a sud-est con la Provincia di Caserta, a sud con la Provincia di Latina e a ovest con la Provincia di Roma.",
+      "a nord con la Provincia di Isernia, a est con la Provincia di L'Aquila, a sud-est con la Provincia di Latina, a sud con la Provincia di Roma e a ovest con la Provincia di Caserta"
+    ],
+    "correct": "a nord con la Provincia di L'Aquila, a est con la Provincia di Isernia, a sud-est con la Provincia di Caserta, a sud con la Provincia di Latina e a ovest con la Provincia di Roma."
+  },
+  {
+    "id": "52743",
+    "question": "E 04 - Il Parco Nazionale d'Abruzzo si estende anche sul territorio Laziale?",
+    "answers": [
+      "Si",
+      "No",
+      "No, perché comprende solo l'Abruzzo e una porzione di Molise"
+    ],
+    "correct": "Si"
+  },
+  {
+    "id": "52744",
+    "question": "E 05 - La Strada Statale n. 214 “Maria e Isola Casamari” collega:",
+    "answers": [
+      "Ceccano con la valle del Liri, fino a Castelliri e Isola Liri",
+      "Frosinone con la valle del Liri, fino a Castelliri e Isola Liri",
+      "Alatri con la valle del Liri, fino a Castelliri e Isola Liri"
+    ],
+    "correct": "Frosinone con la valle del Liri, fino a Castelliri e Isola Liri"
+  },
+  {
+    "id": "52745",
+    "question": "E 06 - La Certosa di Trisulti si trova presso:",
+    "answers": [
+      "Collepardo",
+      "Veroli",
+      "Alatri"
+    ],
+    "correct": "Collepardo"
+  },
+  {
+    "id": "52746",
+    "question": "E 07 - Presso Arpino quale attrazione turistica si trova:",
+    "answers": [
+      "Civitavecchia",
+      "Abbazia di Casamari",
+      "Lago di Canterno"
+    ],
+    "correct": "Civitavecchia"
+  },
+  {
+    "id": "52747",
+    "question": "E 08 – Anagni è famosa per:",
+    "answers": [
+      "L'anfiteatro romano",
+      "Le terme",
+      "La cattedrale"
+    ],
+    "correct": "La cattedrale"
+  },
+  {
+    "id": "52748",
+    "question": "E 09 – Provenendo da Roma, la Strada Statale n.411, “Sublacense” collega :",
+    "answers": [
+      "Atina a Sora",
+      "Guarcino ad Alatri",
+      "Sgurgola a Patrica"
+    ],
+    "correct": "Guarcino ad Alatri"
+  },
+  {
+    "id": "52749",
+    "question": "E 10 - Rocca Janula si trova :",
+    "answers": [
+      "Anagni",
+      "Trevi del Lazio",
+      "Cassino"
+    ],
+    "correct": "Cassino"
+  },
+  {
+    "id": "52750",
+    "question": "E 012 - La Strada Statale n. 155 collega:",
+    "answers": [
+      "Anagni - Fiuggi - Alatri",
+      "Cassino – Piedimonte San Germano",
+      "San Donato Val Comino – Belmonte Castello"
+    ],
+    "correct": "Anagni - Fiuggi - Alatri"
+  },
+  {
+    "id": "52751",
+    "question": "E 13 - Provenendo da Nord, alla Casilina si ricongiunge anche la Strada Statale n. 82 che collega:",
+    "answers": [
+      "Asse Attrezzato",
+      "Alta Valle del Liri",
+      "Coreno Ausonio"
+    ],
+    "correct": "Alta Valle del Liri"
+  },
+  {
+    "id": "52752",
+    "question": "E 014 - Quale settore della Provincia di Frosinone attraversa le Strade Statali 509 e 630?",
+    "answers": [
+      "il settore orientale",
+      "il settore occidentale",
+      "il settore nord"
+    ],
+    "correct": "il settore orientale"
+  },
+  {
+    "id": "52753",
+    "question": "E 015 - Partendo da Frosinone la Strada Statale n. 156 si dirige verso:",
+    "answers": [
+      "la montagna",
+      "il mare",
+      "il centro storico di Frosinone"
+    ],
+    "correct": "il mare"
+  },
+  {
+    "id": "52754",
+    "question": "E 016 - Quale di questi centri risulta più distante dalla città di Frosinone?",
+    "answers": [
+      "Veroli",
+      "Fiuggi",
+      "Ferentino"
+    ],
+    "correct": "Fiuggi"
+  },
+  {
+    "id": "52755",
+    "question": "E 017 - Dove si trovano le Terme Varroniane?",
+    "answers": [
+      "Ferentino",
+      "Cassino",
+      "Fiuggi"
+    ],
+    "correct": "Cassino"
+  },
+  {
+    "id": "52756",
+    "question": "E 019 – Quanti caselli autostradali possiamo trovare nella provincia di Frosinone?",
+    "answers": [
+      "3",
+      "7",
+      "9"
+    ],
+    "correct": "7"
+  },
+  {
+    "id": "52757",
+    "question": "E 20 - Quanti comuni conta la provincia di Frosinone ?",
+    "answers": [
+      "87",
+      "95",
+      "91"
+    ],
+    "correct": "91"
+  },
+  {
+    "id": "52758",
+    "question": "E 021 - In quale comune della provincia di Frosinone si svolge il \"Certamen Ciceronianum?",
+    "answers": [
+      "Anagni",
+      "Arpino",
+      "Cassino"
+    ],
+    "correct": "Arpino"
+  },
+  {
+    "id": "52759",
+    "question": "E 022- Cos'è rinomato nel comune di Posta Fibreno?",
+    "answers": [
+      "Il castello",
+      "Il lago",
+      "L'Abbazia"
+    ],
+    "correct": "Il lago"
+  },
+  {
+    "id": "52760",
+    "question": "E 023 – Nella Provincia di Frosinone c'è una famosa cascata: in quale comune si trova?",
+    "answers": [
+      "Sgurgola",
+      "Isola del Liri",
+      "Sora"
+    ],
+    "correct": "Isola del Liri"
+  },
+  {
+    "id": "52761",
+    "question": "E 024 - In quale piazza si trova il Palazzo della Provincia di Frosinone?",
+    "answers": [
+      "Piazza Gramsci",
+      "Piazza IV Dicembre",
+      "Piazza Caduti di Via Fani"
+    ],
+    "correct": "Piazza Gramsci"
+  },
+  {
+    "id": "52762",
+    "question": "E 025 - Dove è situata la famosa Fonte di Bonifacio VIII?",
+    "answers": [
+      "Anagni",
+      "Isoletta",
+      "Fiuggi"
+    ],
+    "correct": "Fiuggi"
+  },
+  {
+    "id": "52763",
+    "question": "E 026 - In quale comune della provincia di Frosinone si trova lo stabilimento FIAT AUTO?",
+    "answers": [
+      "Piedimonte San Germano",
+      "Frosinone",
+      "Anagni"
+    ],
+    "correct": "Piedimonte San Germano"
+  },
+  {
+    "id": "52764",
+    "question": "E 027 – In quale comune della provincia di Frosinone si svolge la più 'importante manifestazione sul blues?",
+    "answers": [
+      "Alatri",
+      "Isola del Liri",
+      "Veroli"
+    ],
+    "correct": "Isola del Liri"
+  },
+  {
+    "id": "52765",
+    "question": "E 028 - Quale autostrada attraversa la Provincia di Frosinone?",
+    "answers": [
+      "A4",
+      "A8",
+      "A1"
+    ],
+    "correct": "A1"
+  },
+  {
+    "id": "52766",
+    "question": "E 029 – Provenendo da Roma e volendo raggiungere la stazione sciistica di Campo Staffi a quale casello della provincia di Frosinone si ?",
+    "answers": [
+      "Cassino",
+      "Ceprano",
+      "Anagni"
+    ],
+    "correct": "Anagni"
+  },
+  {
+    "id": "52767",
+    "question": "E 30 - Dove possiamo trovare le grotte conosciute anche con il nome di Regina Margherita?",
+    "answers": [
+      "Pastena",
+      "Collepardo",
+      "Atina"
+    ],
+    "correct": "Collepardo"
+  },
+  {
+    "id": "52768",
+    "question": "E 031 – In quale comune della provincia di Frosinone si svolge annualmente la famosa fiera campionaria?",
+    "answers": [
+      "Sora",
+      "Monte San Giovanni Campano",
+      "Piedimonte San Germano"
+    ],
+    "correct": "Sora"
+  },
+  {
+    "id": "52769",
+    "question": "E 032 - Via Firenze di Frosinone è una strada:",
+    "answers": [
+      "Comunale",
+      "Provinciale",
+      "Statale"
+    ],
+    "correct": "Comunale"
+  },
+  {
+    "id": "52770",
+    "question": "E 033 - In quale zona di Frosinone si svolge il mercato?",
+    "answers": [
+      "Stazione",
+      "Parcheggio sottostante al palazzo provinciale",
+      "Nei pressi dello Stadio Casaleno"
+    ],
+    "correct": "Nei pressi dello Stadio Casaleno"
+  },
+  {
+    "id": "52771",
+    "question": "E 034 – Dove si trova il più importante Golf Club della provincia di Frosinone?",
+    "answers": [
+      "Veroli",
+      "Fiuggi",
+      "Viticuso"
+    ],
+    "correct": "Fiuggi"
+  },
+  {
+    "id": "52772",
+    "question": "E 035 - Dove si trovano le cave dalle quali si estrae il noto marmo \"Perlato Royal\"?",
+    "answers": [
+      "Coreno Ausonio",
+      "Collepardo",
+      "Atina"
+    ],
+    "correct": "Coreno Ausonio"
+  },
+  {
+    "id": "52773",
+    "question": "E 036 – In quale comune della provincia di Frosinone è possibile ammirare il famoso Arco a Sesto Acuto?",
+    "answers": [
+      "Pastena",
+      "Fontana Liri",
+      "Arpino"
+    ],
+    "correct": "Arpino"
+  },
+  {
+    "id": "52774",
+    "question": "E 037 - Quale strada statale collega il comune di Alatri al comune di Frosinone?",
+    "answers": [
+      "SS 156",
+      "SS 82",
+      "SS 155"
+    ],
+    "correct": "SS 155"
+  },
+  {
+    "id": "52775",
+    "question": "E 039 – La SS 214 Maria, presso Isola del Liri, si innesta con:",
+    "answers": [
+      "SS 6 Casilina",
+      "SS 82 Valle del Liri",
+      "SS 509 Forca D'Acero"
+    ],
+    "correct": "SS 82 Valle del Liri"
+  },
+  {
+    "id": "52776",
+    "question": "E 40 – In quale dei seguenti paesi non esistono strutture ospedaliere?",
+    "answers": [
+      "Pontecorvo",
+      "Alatri",
+      "Roccasecca"
+    ],
+    "correct": "Roccasecca"
+  },
+  {
+    "id": "52777",
+    "question": "E 41 - In quale delle seguenti località è presente un cimitero di guerra?",
+    "answers": [
+      "Cassino",
+      "Frosinone",
+      "Ceccano"
+    ],
+    "correct": "Cassino"
+  },
+  {
+    "id": "52778",
+    "question": "E 42 – Dov'è nato Cicerone;",
+    "answers": [
+      "Sora;",
+      "Arpino;",
+      "Atina;"
+    ],
+    "correct": "Arpino;"
+  },
+  {
+    "id": "52779",
+    "question": "E 43 – Dove si trova il castello nel quale fu tenuto prigioniero Papa Celestino V?",
+    "answers": [
+      "Fumone;",
+      "Alvito;",
+      "Torre Cajetani;"
+    ],
+    "correct": "Fumone;"
+  },
+  {
+    "id": "52780",
+    "question": "E 44- Dove si trova la fonte di Filette?",
+    "answers": [
+      "Campoli Appennino;",
+      "San Donato Val Comino;",
+      "Guarcino;"
+    ],
+    "correct": "Guarcino;"
+  },
+  {
+    "id": "52781",
+    "question": "E 45-La Camera di Commercio di Frosinone si trova ?",
+    "answers": [
+      "Via Aldo Moro;",
+      "Via America Latina;",
+      "Viale Roma;"
+    ],
+    "correct": "Viale Roma;"
+  },
+  {
+    "id": "52782",
+    "question": "E 046- In che via si trova la Questura di Frosinone?",
+    "answers": [
+      "Via A. Fabi;",
+      "Via Vado del Tufo;",
+      "Via dei Monti Lepini;"
+    ],
+    "correct": "Via Vado del Tufo;"
+  },
+  {
+    "id": "52783",
+    "question": "E 047 – Dove si trova l' Ufficio Trasporti della Provincia di Frosinone?",
+    "answers": [
+      "Via America Latina;",
+      "Via Maria;",
+      "Via Armando Fabi;"
+    ],
+    "correct": "Via Armando Fabi;"
+  },
+  {
+    "id": "52784",
+    "question": "E 048 – Dove si trova l' “Ospedale Santa Scolastica”?",
+    "answers": [
+      "Sora;",
+      "Pontecorvo;",
+      "Cassino;"
+    ],
+    "correct": "Cassino;"
+  },
+  {
+    "id": "52785",
+    "question": "E 049 - Dove si trova il Tribunale di Cassino?",
+    "answers": [
+      "C.so della Repubblica;",
+      "Via Arigni;",
+      "P.zza Labriola"
+    ],
+    "correct": "P.zza Labriola"
+  },
+  {
+    "id": "52786",
+    "question": "E 50 – In quale località di Arpino si trova l' arco a sesto acuto?",
+    "answers": [
+      "Collemagnavino;",
+      "Civitavecchia;",
+      "Collecarino;"
+    ],
+    "correct": "Collecarino;"
+  },
+  {
+    "id": "52787",
+    "question": "E 51 – Come si chiama la strada statale che collega Isola del Liri e Fontana Liri ?",
+    "answers": [
+      "SS. 6 Casilina;",
+      "SS. 156 Monti Lepini;",
+      "SS. 82 Valle del Liri;"
+    ],
+    "correct": "SS. 82 Valle del Liri;"
+  },
+  {
+    "id": "52788",
+    "question": "E 52 – Quale è la strada che collega l' uscita del casello autostradale di Colleferro con la selva di Paliano?",
+    "answers": [
+      "SS. 82 Valle del Liri;",
+      "SS. 214 Maria;",
+      "SP. 21 Palianese;"
+    ],
+    "correct": "SP. 21 Palianese;"
+  },
+  {
+    "id": "52789",
+    "question": "E 53 - Dove si trova la stazione ferroviaria di Frosinone?",
+    "answers": [
+      "P. zza Gramsci;",
+      "Piazza IV Dicembre;",
+      "Piazzale Kambo;"
+    ],
+    "correct": "Piazzale Kambo;"
+  },
+  {
+    "id": "52790",
+    "question": "E 54 - Sulle Carte Stradali, le autostrade come sono indicate?",
+    "answers": [
+      "Più larghe delle nazionali e con il loro numero e lettera",
+      "Con la scritta autostrade, ma della stessa larghezza di quelle statali",
+      "Con tratti sempre discontinui"
+    ],
+    "correct": "Più larghe delle nazionali e con il loro numero e lettera"
+  },
+  {
+    "id": "52791",
+    "question": "E 56 – La legenda di una carta geografica:",
+    "answers": [
+      "Riassume gli indirizzi delle stazioni di servizio",
+      "Indica il significato dei simboli utilizzati sulla carta geografica",
+      "Indica le date in cui è stata aggiornata la carta"
+    ],
+    "correct": "Indica il significato dei simboli utilizzati sulla carta geografica"
+  },
+  {
+    "id": "52792",
+    "question": "E 57 – Nelle Carte Geografiche, la scala cosa indica?",
+    "answers": [
+      "Il rapporto tra la misura sulla carta e quella del terreno",
+      "Le altezze dei monti",
+      "Il rapporto tra gli abitanti della Regione e del Capoluogo"
+    ],
+    "correct": "Il rapporto tra la misura sulla carta e quella del terreno"
+  },
+  {
+    "id": "52793",
+    "question": "E 60 - La scala della carta geografica rappresenta:",
+    "answers": [
+      "La distanza massima in chilometri tra i luoghi più lontani riportati sulla carta",
+      "Il rapporto di riduzione tra la carta geografica e il territorio",
+      "La dimensione massima in millimetri della carta geografica"
+    ],
+    "correct": "Il rapporto di riduzione tra la carta geografica e il territorio"
+  },
+  {
+    "id": "52794",
+    "question": "E 61 - La scala della carta geografica 1:10.000 individua:",
+    "answers": [
+      "Il rapporto di riduzione 1 cm sulla carta = 10.000 metri sul territorio",
+      "Il rapporto di riduzione 1 cm sulla carta = 100 metri sul territorio",
+      "La dimensione massima in millimetri della carta geografica pari a 1 metro"
+    ],
+    "correct": "Il rapporto di riduzione 1 cm sulla carta = 100 metri sul territorio"
+  }
+]
