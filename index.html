@@ -66,22 +66,22 @@
 
         .button-container {
             display: flex;
-            justify-content: space-between; /* Distribuisce i bottoni orizzontalmente */
+            justify-content: space-between;
             align-items: center;
-            position: sticky; /* Fissa i bottoni quando scorri */
-            bottom: 0; /* Li fissa in fondo al contenitore */
-            background-color: white; /* Sfondo per evitare sovrapposizioni con il testo */
-            padding: 10px 20px; /* Padding per allineamento */
-            z-index: 1000; /* Assicura che i bottoni siano sopra gli altri elementi */
-            border-top: 1px solid #ccc; /* Linea di separazione opzionale */
-            width: 100%; /* Occupa tutta la larghezza */
-            max-width: 600px; /* Stessa larghezza massima della domanda */
-            margin-left: auto; /* Centra il contenitore */
-            margin-right: auto; /* Centra il contenitore */
+            position: sticky;
+            bottom: 0;
+            background-color: white;
+            padding: 10px 20px;
+            z-index: 1000;
+            border-top: 1px solid #ccc;
+            width: 100%;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
         }
 
         .end-quiz-btn {
-            margin-left: auto; /* Spinge il bottone "Termina Quiz" al margine destro */
+            margin-left: auto;
         }
 
         .result {
@@ -126,6 +126,56 @@
 
         .wrong-question p[style*="green"] {
             color: green;
+        }
+
+        /* Aggiungi qui le modifiche per i dispositivi mobili */
+        @media screen and (max-width: 767px) {
+            body {
+                padding: 10px;
+            }
+
+            .question {
+                font-size: 1em;
+                max-width: 100%;
+                padding: 0 10px;
+            }
+
+            .answer-container {
+                padding-left: 10px;
+            }
+
+            .answer-container label {
+                padding-left: 20px;
+                text-indent: -20px;
+            }
+
+            .button-container {
+                padding: 10px;
+                max-width: 100%;
+            }
+
+            .btn {
+                font-size: 0.9em;
+                padding: 8px;
+            }
+
+            .progress-item {
+                width: 15px;
+                height: 15px;
+            }
+
+            .wrong-question {
+                width: 100%;
+                padding: 5px;
+            }
+
+            h1 {
+                font-size: 1.5em;
+            }
+
+            #global-timer {
+                font-size: 1.2em;
+            }
         }
     </style>
 </head>
